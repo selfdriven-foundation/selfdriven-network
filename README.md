@@ -10,12 +10,12 @@
 </a>
 
 ### Resources
-- [Iagon](https://iagon.com)
 - [entityOS](https://entityos.cloud)
 - [Cardano](https://cardano.org)
+- [Iagon](https://iagon.com)
 - [Midnight](https://midnight.network)
 - [selfdrivenOS](https://selfdriven.tech)
-- [selfdriven Identity](https://selfdriven.id) 
+- [selfdriven Identity](https://selfdriven.id) inc Identus
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)

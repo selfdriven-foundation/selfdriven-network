@@ -25,5 +25,7 @@
 ### About
 - Supported by the [selfdriven Foundation](https://selfdriven.foundation)
 
+### Roadmap
+- Prototype Node Design - bring together existing tech/infrastructure.
 
-> ... a journey to decentralisation.
+> A journey to decentralisation...

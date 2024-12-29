@@ -32,7 +32,6 @@
 - [selfdriven.finance](https://selfdriven.finance)
 - [selfdriven.insure](https://selfdriven.insure)
 - [selfdriven.ai](https://selfdriven.ai)
-
 - [octo](http://selfdriven.foundation/octo)
 - [octoPool](https://github.com/selfdriven-foundation/octo/tree/main/octopool)
 - [octomics](https://selfdriven.foundation/octomics)

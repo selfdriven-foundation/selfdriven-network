@@ -28,6 +28,7 @@
 
 ### Usages (via selfdrivenOS)
 - [selfdriven.apps](https://selfdriven.foundation/apps)
+- [selfdriven.id](https://selfdriven.id)
 - [selfdriven.social](https://selfdriven.social)
 - [selfdriven.finance](https://selfdriven.finance)
 - [selfdriven.insure](https://selfdriven.insure)

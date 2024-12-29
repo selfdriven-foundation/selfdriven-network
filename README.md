@@ -1,6 +1,8 @@
 
 ### The selfdrivenOS storage &amp; compute network.
 
+> A journey to decentralisation...
+
 <a href="/images/selfdriven-network-stack-dark.png" target="_blank" class="text-decoration-none">
     <div class="card shadow">
         <div class="card-body p-0">
@@ -28,4 +30,12 @@
 ### Roadmap
 - Prototype Node Design - bring together existing tech/infrastructure.
 
-> A journey to decentralisation...
+### Usages (via selfdrivenOS)
+- [selfdriven.apps](https://selfdriven.foundation/apps)
+- [selfdriven.social](https://selfdriven.social)
+- [octomics](http://selfdriven.foundation/octomics)
+- [heyOcto.ai](http://heyocto.ai)
+- [selfdriven.finance](https://selfdriven.finance)
+- [selfdriven.insure](https://selfdriven.insure)
+- [selfdriven.ai](https://selfdriven.ai)
+- [OctoPool](https://github.com/selfdriven-foundation/octo/tree/main/octopool)

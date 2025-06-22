@@ -15,7 +15,7 @@
 - [Cardano](https://cardano.org)
 - [Iagon](https://iagon.com)
 - [Midnight](https://midnight.network)
-- [selfdrivenOS](https://selfdriven.tech)
+- [selfdriven.tech](https://selfdriven.tech)
 - [selfdriven Identity](https://selfdriven.id) inc Identus
 
 ### Contact Us
@@ -30,7 +30,7 @@
 - Prototype Node Design - bring together existing tech/infrastructure.
 
 ### Usages (via selfdrivenOS)
-- [selfdriven.apps](https://selfdriven.foundation/apps)
+- [selfdriven Apps](https://selfdriven.foundation/apps)
 - [selfdriven.id](https://selfdriven.id)
 - [selfdriven.social](https://selfdriven.social)
 - [selfdriven.finance](https://selfdriven.finance)

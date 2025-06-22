@@ -7,6 +7,9 @@
     <img src="/images/selfdriven-network-stack-dark.png" class="img-responsive rounded img-fluid">
 </a>
 
+### Design
+- A Drive-Chain based on Cardano
+
 ### Resources
 - [entityOS](https://entityos.cloud)
 - [Cardano](https://cardano.org)

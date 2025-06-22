@@ -8,7 +8,7 @@
 </a>
 
 ### Design
-- A Drive-Chain based on Cardano
+- A Drive-Chain based on Cardano, Bitcoin & Midnight
 
 ### Resources
 - [entityOS](https://entityos.cloud)

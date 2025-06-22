@@ -1,5 +1,5 @@
 
-### The selfdrivenOS storage &amp; compute network.
+### The selfdrivenOS storage, compute &amp; connect network.
 
 > A journey to decentralisation...
 

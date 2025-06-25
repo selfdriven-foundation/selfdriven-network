@@ -10,7 +10,7 @@
 ### Design
 - On-Chain Perspective; A Drive-Chain based on Cardano, Bitcoin & Midnight
 
-### Interface Docs
+### Interface Specs
 - [core.selfdriven.network](https://docs.google.com/document/d/1HIVARxf_lxR7xpVL0u-zYLMMwDEepaDesblXPrWUlQ4)
 - [onchain.selfdriven.network](https://docs.google.com/document/d/1g1XPtfjw5grLjewrJKt0u1pnLm3dBesdunlmUD_T1LA)
 - [ssi.selfdriven.network](https://docs.google.com/document/d/147cgmmFNtSNwSqpbixtCh-BSbUdqnTXd_z1Lna2YsZQ)

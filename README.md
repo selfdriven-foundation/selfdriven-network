@@ -17,6 +17,7 @@
 - [ai.selfdriven.network](https://docs.google.com/document/d/1pOM6McZqbgK9V-BRfAuMYi9M_j_PXsYhxwLAVFT5Qo4)
 
 ### Resources
+- **[GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-network)**
 - [entityOS](https://entityos.cloud)
 - [Cardano](https://cardano.org)
 - [Iagon](https://iagon.com)

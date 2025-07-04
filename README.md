@@ -3,8 +3,8 @@
 
 > A journey to decentralisation...
 
-<a href="/images/selfdriven-network-stack-dark.png" target="_blank" class="text-decoration-none">
-    <img src="/images/selfdriven-network-stack-dark.png" class="img-responsive rounded img-fluid">
+<a href="/docs/images/selfdriven-network-stack-dark.png" target="_blank" class="text-decoration-none">
+    <img src="/docs/images/selfdriven-network-stack-dark.png" class="img-responsive rounded img-fluid">
 </a>
 
 ### Design

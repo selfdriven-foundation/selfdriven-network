@@ -1,30 +1,32 @@
 # Attachment Interface
 
-> Where attachments are created.
+> Where attachments are created & controlled.
+> Keep your attachments close.
+> Keep your attachments private, unless you choose not to.
 
 - attachment.selfdriven.network  
 - attachment.interface.selfdriven.network  
 
-**Version**
+### Version
 
 2.0 (MAR2025)
 
-**Methods**
+### Method Names
 
 - "attachment-ipfs-file-upload" 
 
-**Notes**
+### Notes
 
-* All methods are access as http POSTs  
-* All data to be sent in the body as JSON \- so protected by SSL.  
-* All response data returned as JSON.  
-* All http response statuses are 200 with status=”OK|ER” \- REST/http status code version is coming.
+- All methods are access as http POSTs  
+- All data to be sent in the body as JSON \- so protected by SSL.  
+- All response data returned as JSON.  
+- All http response statuses are 200 with status=”OK|ER” \- REST/http status code version is coming.
 
-**Help**
+### Help
 
-* [https://selfdriven.fyi/connect](https://selfdriven.fyi/connect)  
+- [https://selfdriven.fyi/connect](https://selfdriven.fyi/connect)  
 
-**Methods**
+### Methods
 
 | Method | Attachment IPFS File  Upload (attachment-ipfs-file-upload) |
 | :---- | :---- |
@@ -33,4 +35,8 @@
 | **Request Data** | method: ‘attachment-ipfs-file-upload’ apikey: \[supplied\] authkey: \[supplied\] data: version:  |
 | **Format** | JSON |
 | **Response Data** | method: ‘attachment-ipfs-file-upload’ status: ‘OK’, ‘ER’ \- if error then {error: {code:, description:}} data: \[ { name:, url:, id:, etag: modifieddatetime:, createddatetime: } \] |
+
+### Resources
+- [github.com/ibcom-lab/entityos-learn](https://github.com/ibcom-lab/entityos-learn)
+- [github.com/ibcom-lab/entityos-learn-storage](https://github.com/ibcom-lab/entityos-learn-storage) 
 

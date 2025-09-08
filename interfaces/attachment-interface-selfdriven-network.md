@@ -1,8 +1,6 @@
 # Attachment Interface
 
 > Where attachments are created & controlled.
-> Keep your attachments close.
-> Keep your attachments private, unless you choose not to.
 
 - attachment.selfdriven.network  
 - attachment.interface.selfdriven.network  
@@ -22,10 +20,6 @@
 - All response data returned as JSON.  
 - All http response statuses are 200 with status=”OK|ER” \- REST/http status code version is coming.
 
-### Help
-
-- [https://selfdriven.fyi/connect](https://selfdriven.fyi/connect)  
-
 ### Methods
 
 | Method | Attachment IPFS File  Upload (attachment-ipfs-file-upload) |
@@ -37,6 +31,12 @@
 | **Response Data** | method: ‘attachment-ipfs-file-upload’ status: ‘OK’, ‘ER’ \- if error then {error: {code:, description:}} data: \[ { name:, url:, id:, etag: modifieddatetime:, createddatetime: } \] |
 
 ### Resources
+- [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)  
 - [github.com/ibcom-lab/entityos-learn](https://github.com/ibcom-lab/entityos-learn)
-- [github.com/ibcom-lab/entityos-learn-storage](https://github.com/ibcom-lab/entityos-learn-storage) 
+- [github.com/ibcom-lab/entityos-learn-storage](https://github.com/ibcom-lab/entityos-learn-storage)
+
+---
+
+- "Keep your attachments close."
+- "Keep your attachments private, unless you choose not to."
 

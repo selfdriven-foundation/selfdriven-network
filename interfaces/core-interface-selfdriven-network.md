@@ -24,19 +24,12 @@
 * “get-projects”  
 * “add-community-member”  
   
-
-
 **Notes**
 
 * All methods are access as http POSTs  
 * All data to be sent in the body as JSON \- so protected by SSL.  
 * All response data returned as JSON.  
 * All http response statuses are 200 with status=”OK|ER” \- REST/http status code version is coming.
-
-**Help**
-
-* [https://selfdriven.fyi/connect](https://selfdriven.fyi/connect)  
-* [https://selfdriven.fyi/apps/\#apis](https://selfdriven.fyi/apps/#apis)
 
 **Methods**
 
@@ -98,3 +91,7 @@
 | :---- | :---- |
 | **Response** Mode \= Reflect | { 	"status": "OK", 	"apikey": "e7849d3a-d8a3-49c7-8b27-70b85047e0f1", 	"authkey": "28cc4fae-804f-4603-d08a-94fce2be90f2", 	"mode": 	{ 		"type": "live" 	}, 	"data": 	{ 		"id": “e4aec5ac-5587-4fe4-a4da-d00dc28d1690” 	} 	"ids": 	{ 		"log":"22050602-6134-4898-b984-26d4741ab2c5", 		"achievement":"e4aec5ac-5587-4fe4-a4da-d00dc28d1690" 	} } |
 
+### Resources
+- [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
+- [selfdriven.network](https://selfdriven.network)  
+- [selfdriven.fyi/apps](https://selfdriven.fyi/apps)  

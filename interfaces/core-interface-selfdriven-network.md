@@ -42,7 +42,6 @@
 
 | Method | Get Learners (get-learners) |
 | :---- | :---- |
-| **Endpoints** | https://core.selfdriven.network https://api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘get-learners’ apikey: \[supplied\] authkey: \[supplied\] data: id: Learner ID firstname: lastname: email:  |
@@ -51,7 +50,6 @@
 
 | Method | Get Connections (get-connections) |
 | :---- | :---- |
-| **Endpoints** | https://core.selfdriven.network https://api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘get-connections’ apikey: \[supplied\] authkey: \[supplied\] data: id: Learner or Learning-Partner  ID \-- leave blank for all.  |
@@ -60,7 +58,6 @@
 
 | Method | Get Skills (get-skills) |
 | :---- | :---- |
-| **Endpoints** | https://core.selfdriven.network https://api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘get-skills’ apikey: \[supplied\] authkey: \[supplied\] data: id: Skill ID \-- leave blank for all. skillname: \- leave blank for all.  |
@@ -70,7 +67,6 @@
 | Method | Add Achievement (add-achievement) |
 | :---- | :---- |
 | **Description** | Add achievement with linked skills. |
-| **Endpoints** | https://core.selfdriven.network https://api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and  all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘add-achievement’ apikey: \[supplied\] authkey: \[supplied\] data: issuedto: ID as returned from get-learners date: D MMM YYYY subject: description: skills: \[{id:}\]  |
@@ -80,7 +76,6 @@
 | Method | Add Token (add-token) |
 | :---- | :---- |
 | **Description** | Add community token. |
-| **Endpoints** | https://core.selfdriven.network https://api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and  all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘add-token’ apikey: \[supplied\] authkey: \[supplied\] data: issuedto: ID as returned from get-learners date: D MMM YYYY subject: notes: amount: type: ‘Earned’, ‘Used’, usage: ‘Community Services’ linkedto: \[{type: ‘Achievement’, id:}\]  |

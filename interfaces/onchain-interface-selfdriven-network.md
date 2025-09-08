@@ -39,7 +39,6 @@
 
 | Method | Generate Mnemonic (generate-mnemonic) |
 | :---- | :---- |
-| **Endpoints** | https://onchain.selfdriven.network https://onchain.api.slfdrvn.io |
 | **Description** | Generates BIP39 word mnemonic |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
@@ -49,7 +48,6 @@
 
 | Method | Generate Hash (generate-hash) |
 | :---- | :---- |
-| **Endpoints** | https://onchain.selfdriven.network https://onchain.api.slfdrvn.io |
 | **Description** | Generates a BLAKE-2b Hash. |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
@@ -59,7 +57,6 @@
 
 | Method | Verify Signed Data (verify-signed-data) |
 | :---- | :---- |
-| **Endpoints** | https://onchain.selfdriven.network https://onchain.api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘verify-signed-data’ apikey: \[supplied\] authkey: \[supplied\] data: datatoverify: signature: key: \[optional\] stakeaddress: \[optional\]  |
@@ -68,7 +65,6 @@
 
 | Method | Generate Wallet (generate-wallet) |
 | :---- | :---- |
-| **Endpoints** | https://onchain.selfdriven.network https://onchain.api.slfdrvn.io |
 | **Description** | Generate a new “wallet”. |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
@@ -78,7 +74,6 @@
 
 | Method | Generate Account (generate-account) |
 | :---- | :---- |
-| **Endpoints** | https://onchain.selfdriven.network https://onchain.api.slfdrvn.io |
 | **Description** | Generate a new “account” \- which is same as “generate-wallet” except stores the mnemonic, entropy, keys privately on selfdriven.cloud service in the context of the user generating the account. The account is thus shared custody. |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
@@ -88,7 +83,6 @@
 
 | Method | Get Tokens (get-tokens) |
 | :---- | :---- |
-| **Endpoints** | https://onchain.selfdriven.network https://onchain.api.slfdrvn.io |
 | **Description** | Get tokens for an address using an indexing service. Can be used by the cloud service to access data for a user's account/address. |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
@@ -97,8 +91,6 @@
 | **Response Data** | method: ‘generate-account’ status: ‘OK’, ‘ER’ \- if error then {error: {code:, description:}} data: \[ { tokens: \] |
 
 | Method | Get Transactions (get-transactions) |
-| :---- | :---- |
-| **Endpoints** | https://onchain.selfdriven.network https://onchain.api.slfdrvn.io |
 | **Description** | Get transactions (UTxOs) for an address using an indexing service. Can be used by the cloud service to access data for a user's account/address. |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |

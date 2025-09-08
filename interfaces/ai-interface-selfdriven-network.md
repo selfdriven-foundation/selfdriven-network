@@ -1,4 +1,4 @@
-## AI Interface
+# AI Interface
 
 * ai.selfdriven.network  
 * ai.interface.selfdriven.network  
@@ -30,7 +30,6 @@
 
 | Method | Get Models (ai-gen-get-models) |
 | :---- | :---- |
-| **Endpoints** | https://ai.selfdriven.network https://ai.api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘get-specs’ apikey: \[supplied\] authkey: \[supplied\] data: version:  |
@@ -39,7 +38,6 @@
 
 | Method | Conversation (ai-gen-conversation-chat) |
 | :---- | :---- |
-| **Endpoints** | https://ai.selfdriven.network https://ai.api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘ai-gen-conversation-chat’ apikey: \[supplied\] authkey: \[supplied\] data: messagesystem: message: |

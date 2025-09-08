@@ -34,7 +34,6 @@
 
 | Method | Get Specs (ssi-get-info) |
 | :---- | :---- |
-| **Endpoints** | https://ssi.selfdriven.network https://ssi.api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘get-specs’ apikey: \[supplied\] authkey: \[supplied\] data: version:  |
@@ -43,7 +42,6 @@
 
 | Method | Get DIDs (ssi-generate-did-document) |
 | :---- | :---- |
-| **Endpoints** | https://ssi.selfdriven.network https://ssi.api.slfdrvn.io |
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘ssi-generate-did-document’ apikey: \[supplied\] authkey: \[supplied\] data: id: DID \-- leave blank for all.  |

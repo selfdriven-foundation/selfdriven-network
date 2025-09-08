@@ -7,7 +7,7 @@
 
 ### Version
 
-2.0 (MAR2025)
+- 2.0 (MAR2025)
 
 ### Method Names
 

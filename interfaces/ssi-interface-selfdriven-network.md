@@ -6,7 +6,7 @@
 
 **Version**
 
-2.5 (JAN2025)
+- 2.5 (JAN2025)
 
 **Methods**
 

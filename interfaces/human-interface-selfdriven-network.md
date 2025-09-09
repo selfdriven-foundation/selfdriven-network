@@ -32,4 +32,5 @@ All interface code and data model schemas are open source, so you can also build
 - [selfdriven.fyi/apps](https://selfdriven.fyi/apps)
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
-- [selfdriven.id](https://selfdriven.id)  
+- [selfdriven.id](https://selfdriven.id)
+- [Code GitHub Repo](https://github.com/selfdriven-tech/interface-human) 

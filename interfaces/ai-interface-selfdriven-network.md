@@ -53,4 +53,5 @@
 ### Resources
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
-- [selfdriven.ai](https://selfdriven.ai)  
+- [selfdriven.ai](https://selfdriven.ai)
+- [Code GitHub Repo](https://github.com/selfdriven-tech/interface-ai)

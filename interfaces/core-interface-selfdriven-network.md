@@ -94,4 +94,5 @@
 ### Resources
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
-- [selfdriven.fyi/apps](https://selfdriven.fyi/apps)  
+- [selfdriven.fyi/apps](https://selfdriven.fyi/apps)
+- [Code GitHub Repo](https://github.com/selfdriven-tech/interface-core)

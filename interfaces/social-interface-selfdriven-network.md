@@ -28,4 +28,5 @@ See [selfdriven.social](https://www.selfdriven.social)
 ### Resources
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
-- [selfdriven.id](https://selfdriven.id)  
+- [selfdriven.id](https://selfdriven.id)
+- [Code GitHub Repo](https://github.com/selfdriven-tech/interface-social)

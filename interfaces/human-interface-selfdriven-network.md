@@ -23,6 +23,7 @@ The interfaces serve different functions specific to an individual’s or commun
 All interface code and data model schemas are open source, so you can also build and host your own human/community interfaces.
 
 - [selfdriven.tech](https://selfdriven.tech)
+- [Code GitHub Repo](https://github.com/selfdriven-tech/interface-human) 
 
 ### Help
 
@@ -33,4 +34,4 @@ All interface code and data model schemas are open source, so you can also build
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
 - [selfdriven.id](https://selfdriven.id)
-- [Code GitHub Repo](https://github.com/selfdriven-tech/interface-human) 
+

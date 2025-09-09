@@ -1,21 +1,22 @@
 # The Human Interface
 
-- selfdriven.app
-- selfdriven.community
-- selfdriven Governance
-- selfdriven Wallet
-- heyOcto.ai 
+- [selfdriven.app](https://selfdriven.app)
+- [levelup.selfdriven.app](https://levelup.selfdriven.app)
+- [studio.selfdriven.app](https://studio.selfdriven.app)
+- [org.selfdriven.app](https://org.selfdriven.app)
+- [wallet.selfdriven.app](https://wallet.selfdriven.app)
+- [heyOcto.ai](https://heyOcto.ai)
+- [selfdriven.community](https://selfdriven.community) - Community Specific Spaces
 
-### Notes
+### Design Principles
 
-**First Principles:**
-- Keep data protected as close to the human as possible
-- Establish identity and trust using SSI
+- Keep data protected as close to the human as possible.
+- Establish identity and trust using SSI.
 - Share the minimum required to help with collective organisation. ie as required by a community.
 
-### Usage
+### References
 
-See [selfdriven.fyi/apps](https://selfdriven.fyi/apps)
+- [selfdriven.fyi/apps](https://selfdriven.fyi/apps)
 
 ### Help
 

@@ -11,6 +11,7 @@
 - On-Chain Perspective; A Drive-Chain based on Cardano, Bitcoin & Midnight
 
 ### Interface Specs
+- [AI](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/human-interface-selfdriven-network.md)
 - [AI](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/ai-interface-selfdriven-network.md)
 - [Attachment](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/attachment-interface-selfdriven-network.md)
 - [Core](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/core-interface-selfdriven-network.md)

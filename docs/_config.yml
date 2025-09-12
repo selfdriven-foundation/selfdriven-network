@@ -1,0 +1,13 @@
+title: "selfdriven Network"
+description: "A set of interfaces supporting the selfdriven Organisational System - selfdrivenOS."
+baseurl: ""
+url: ""
+defaults:
+  - scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: default
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

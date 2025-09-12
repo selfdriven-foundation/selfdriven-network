@@ -1,3 +1,4 @@
+---
 layout: default
 title: Human Social Interfaces - selfdriven Network
 permalink: /human-social-interfaces/

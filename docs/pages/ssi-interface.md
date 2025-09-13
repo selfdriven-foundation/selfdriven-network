@@ -29,7 +29,7 @@ permalink: /ssi-interface/
 * All methods are access as http POSTs  
 * All data to be sent in the body as JSON \- so protected by SSL.  
 * All response data returned as JSON.  
-* All http response statuses are 200 with status=”OK|ER” \- REST/http status code version is coming.
+* All http response statuses are 200 with status=”OK,ER”.
 
 **Help**
 

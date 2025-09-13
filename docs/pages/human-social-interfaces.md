@@ -10,7 +10,7 @@ permalink: /human-social-interfaces/
 - [Social Interface](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/social-interface-selfdriven-network.md) 
 
 ### References
-- [selfdriven.id](https://selfdriven.id)
+- [selfdriven.id](https://selfdriven.id) - Trustable identification and associated identities.
 - [selfdriven.fyi/identity](https://selfdriven.fyi/identity)
 - [selfdriven.fyi/trust](https://selfdriven.fyi/trust)
 - [skillzeb.io/skillset-explorer/domain:being-human](https://skillzeb.io/skillset-explorer/domain:being-human) 

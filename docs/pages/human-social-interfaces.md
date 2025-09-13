@@ -6,8 +6,8 @@ permalink: /human-social-interfaces/
 
 # The Human & Social Interfaces
 
-- [Human Interface](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/human-interface-selfdriven-network.md)
-- [Social Interface](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/social-interface-selfdriven-network.md) 
+- [Human Interface](/human-interface/)
+- [Social Interface](/social-interface/) 
 
 ### References
 - [selfdriven.id](https://selfdriven.id) - Trustable identification and associated identities.

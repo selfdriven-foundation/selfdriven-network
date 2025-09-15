@@ -6,16 +6,14 @@ permalink: /interfaces-node/
 
 # selfdriven Network Interfaces Node
 
-### Decentralised node supporting the network interfaces
-- Core (Artifacts)
-- SSI (Identity)
-- Attachment (Files)
-- OnChain (Assets & Transactions)
-- AI (Intelligence)
+### A decentralised node supporting the network interfaces
+- [SSI](/ssi-interface/)  - Identity
+- [Core](/core-interface/) - Artifacts
+- [Attachment](/attachment-interface/) - Files
+- [AI](/ai-interface/) - Intelligence
+- [OnChain](/onchain-interface/)  - Assets & Transactions
 
-### And indirectly the human and social interfaces.
-
-Serving client assets or reference indexes to their location.
+### Serving client assets or reference indexes for the human and social interfaces
 - [selfdriven.app](https://selfdriven.app)
 - [levelup.selfdriven.app](https://levelup.selfdriven.app)
 - [studio.selfdriven.app](https://studio.selfdriven.app)

@@ -13,7 +13,7 @@ permalink: /interfaces-node/
 - [AI](/ai-interface/) - Intelligence
 - [OnChain](/onchain-interface/)  - Assets & Transactions
 
-### Serving client assets or reference indexes for the human and social interfaces
+### And resources for the human and social interfaces
 - [selfdriven.app](https://selfdriven.app)
 - [levelup.selfdriven.app](https://levelup.selfdriven.app)
 - [studio.selfdriven.app](https://studio.selfdriven.app)

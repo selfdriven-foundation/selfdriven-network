@@ -6,11 +6,16 @@ permalink: /human-interface/
 
 # The Human Interface
 
-### Design Principles
+- Your data - protected 
+- Collective engagement - community / organisation.
+- Human verification
+- Discoverability - supporting human/practition in the loop
+
+### Guiding Concepts
 
 - Keep data protected as close to the human as possible.
 - Establish identity and trust using SSI.
-- Share the minimum required to help with collective organisation. ie as required by a community.
+- Share the minimum required to help with collective organisation. e.g. as required by a community.
 
 ### Hosted Interfaces
 
@@ -41,3 +46,6 @@ All interface code and data model schemas are open source, so you can also build
 - [selfdriven.network](https://selfdriven.network)  
 - [selfdriven.id](https://selfdriven.id)
 
+---
+
+*"Hi - the human interface"*

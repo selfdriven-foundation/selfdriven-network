@@ -29,6 +29,10 @@ permalink: /interfaces-node/
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)
 
+### Standards
+- ISO27001 - Information Security Management Systems
+- ISO27040 - Data Storage Security
+
 ---
 
 *"Decentralised by nature"*

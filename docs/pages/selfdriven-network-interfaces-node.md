@@ -11,7 +11,8 @@ permalink: /interfaces-node/
 - [Core](/core-interface/) - Artifacts
 - [Attachment](/attachment-interface/) - Files
 - [AI](/ai-interface/) - Intelligence
-- [OnChain](/onchain-interface/)  - Assets & Transactions
+- [OnChain](/onchain-interface/) - Assets & Transactions
+- [Infra](/infra-interface/) - Physical & Virtual
 
 ### And resources for the human and social interfaces
 - [selfdriven.app](https://selfdriven.app)

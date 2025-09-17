@@ -32,7 +32,7 @@ permalink: /interfaces-node/
 ### Standards
 - ISO27001 - Information Security Management Systems
 - ISO27040 - Data Storage Security
-
+- ISO20022 - Financial Information Messaging
 ---
 
 *"Decentralised by nature"*

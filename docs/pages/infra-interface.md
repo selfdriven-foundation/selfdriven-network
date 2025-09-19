@@ -26,5 +26,5 @@ The selfdriven Network supports cooperative ownership of infrastructure resource
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces)
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
-- [Code GitHub Repo](https://github.com/selfdriven-tech/interface-social)
+- [Code GitHub Repo](https://github.com/selfdriven-tech/interface-infra)
 

@@ -6,9 +6,7 @@ permalink: /entity-interface/
 
 # Entity (Core) Interface
 
-* core.selfdriven.network  
-* core.interface.selfdriven.network  
-* objects.interface.selfdriven.network  
+* entity.interface.selfdriven.network  
 * api.slfdrvn.io
 
 ### Version

@@ -6,7 +6,6 @@ permalink: /ai-interface/
 
 # AI Interface
 
-* ai.selfdriven.network  
 * ai.interface.selfdriven.network  
 * ai.api.slfdrvn.io
 

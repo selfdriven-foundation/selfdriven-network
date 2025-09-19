@@ -6,9 +6,6 @@ permalink: /attachment-interface/
 
 # Attachment Interface
 
-> Where attachments are created & controlled.
-
-- attachment.selfdriven.network  
 - attachment.interface.selfdriven.network  
 
 ### Version

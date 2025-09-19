@@ -7,9 +7,10 @@ permalink: /human-interface/
 # The Human Interface
 
 - Your data - protected 
-- Collective engagement - community / organisation.
+- Collective engagement - community / organisation 
+    - supporting human/practition in the loop
 - Human verification
-- Discoverability - supporting human/practition in the loop
+    - *In the age of inorganic intelligence: verify who is human, build trust.*
 
 ### Guiding Concepts
 

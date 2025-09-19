@@ -20,7 +20,10 @@ permalink: /infra-interface/
 
 ### Infrastructure Ownership
 The selfdriven Network supports cooperative ownership of infrastructure resource in collaboration with [selfdriven Services](https://selfdriven.services) as the legal owner and manager.
- - Current infrastructure includes a [Unity Node](https://unitynodes.io) (#SNIIUN01)
+
+**Current infrastructure includes:**
+- [Unity Node](https://unitynodes.io) (#SNIIUN01)
+- [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes) (#SNIICN01)
 
 ### Resources
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces)

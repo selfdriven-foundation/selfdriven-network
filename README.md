@@ -11,13 +11,14 @@
 - On-Chain Perspective; A Drive-Chain based on Cardano, Bitcoin & Midnight
 
 ### Interface Specs
-- [AI](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/human-interface-selfdriven-network.md)
-- [AI](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/ai-interface-selfdriven-network.md)
-- [Attachment](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/attachment-interface-selfdriven-network.md)
-- [Core](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/core-interface-selfdriven-network.md)
-- [OnChain](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/onchain-interface-selfdriven-network.md)
+- [Human](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/human-interface-selfdriven-network.md)
 - [Social](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/social-interface-selfdriven-network.md)
 - [SSI](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/ssi-interface-selfdriven-network.md)
+- [Entities/Core](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/core-interface-selfdriven-network.md)
+- [AI](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/ai-interface-selfdriven-network.md)
+- [Attachment](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/attachment-interface-selfdriven-network.md)
+- [OnChain](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/onchain-interface-selfdriven-network.md)
+- [Infra](https://github.com/selfdriven-foundation/selfdriven-network/blob/main/interfaces/infra-interface-selfdriven-network.md)
 
 ### Resources
 - **[GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-network)**

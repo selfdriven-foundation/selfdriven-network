@@ -11,7 +11,7 @@ permalink: /onchain-interface/
 
 **Version**
 
-- 2.1 (JAN2025)
+- 2.2 (JUN2025)
 
 **Methods**
 

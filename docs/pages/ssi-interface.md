@@ -11,7 +11,7 @@ permalink: /ssi-interface/
 
 **Version**
 
-- 2.5 (JAN2025)
+- 2.6 (AUG2025)
 
 **Methods**
 

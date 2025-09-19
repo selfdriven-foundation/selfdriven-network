@@ -11,7 +11,7 @@ permalink: /entity-interface/
 
 ### Version
 
-- 2.3 (NOV2023)
+- 2.4 (MAR2025)
 
 ### Methods
 

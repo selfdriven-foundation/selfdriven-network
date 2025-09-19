@@ -11,7 +11,7 @@ permalink: /infra-interface/
     - Unity Node - WorldMobile Network collab with Minutes Network
 - Sensors
 - Automation
-    - Robotics
+- Robotics
 
 ### Virtual
 - Generated Spaces - e.g. Cornucopias Node

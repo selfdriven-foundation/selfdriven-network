@@ -15,18 +15,20 @@ permalink: /entity-interface/
 
 ### Methods
 
+* “get-community”  
+* “get-community-members”
+* “get-community-organisation”
+* ”get-community-organisational-partners” 
 * “get-learners”  
 * ”get-learning-partners”  
 * “get-connections”  
 * “get-skills”  
 * “add-skill”  
 * “get-achievements”  
-* “add-achievement”  
-* “add-token”  
-* “get-contacts-organisation”  
-* “get-contacts-person”  
 * “get-projects”  
-* “add-community-member”  
+* “add-community-member”
+* “add-achievement”  
+* “add-token”
   
 ### Notes
 

@@ -4,7 +4,7 @@ title: Entity Interface - selfdriven Network
 permalink: /entity-interface/
 ---
 
-# Entity (Core) Interface
+# Entity Interface
 
 * entity.interface.selfdriven.network  
 * api.slfdrvn.io

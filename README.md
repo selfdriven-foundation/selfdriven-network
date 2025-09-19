@@ -14,7 +14,7 @@
 - [Human](https://www.selfdriven.network/human-interface/)
 - [Social](https://www.selfdriven.network/social-interface/)
 - [SSI](https://www.selfdriven.network/ssi-interface/)
-- [Core](https://www.selfdriven.network/core-interface/)
+- [Entity (Core)](https://www.selfdriven.network/entity-interface/)
 - [AI](https://www.selfdriven.network/ai-interface/)
 - [Attachment](https://www.selfdriven.network/attachment-interface/)
 - [OnChain](https://www.selfdriven.network/onchain-interface/)

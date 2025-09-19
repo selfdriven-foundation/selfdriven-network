@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Core Interface - selfdriven Network
-permalink: /core-interface/
+title: Entity Interface - selfdriven Network
+permalink: /entity-interface/
 ---
 
-# Core (Objects) Interface
+# Entity (Core) Interface
 
 * core.selfdriven.network  
 * core.interface.selfdriven.network  

@@ -16,13 +16,13 @@ permalink: /infra-interface/
 ### Virtual
 - Generated Spaces - e.g. Cornucopias Node
 - Blockchain Nodes - e.g. Cardano
-- [seldriven Network Interfaces Node](/interfaces-node/)
+- [selfdriven Network Interfaces Node](/interfaces-node/)
 
 ### Infrastructure Ownership
 The selfdriven Network supports cooperative ownership of infrastructure resource in collaboration with [selfdriven Services](https://selfdriven.services) as the legal owner and manager.
 
 **Current infrastructure includes:**
-- [Unity Node](https://unitynodes.io) (#SNIIUN01)
+- [Unity Node](https://unitynodes.io) - [#SNIIUN01](https://adastat.net/policies/269366d093249b0cac98fa9fcbc374578429534e3b7adeac09f081e3)
 - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes) (#SNIICN01)
 
 ### Resources

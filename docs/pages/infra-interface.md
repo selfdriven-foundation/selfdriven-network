@@ -14,8 +14,8 @@ permalink: /infra-interface/
 - Robotics
 
 ### Virtual
-- Generated Spaces - e.g. Cornucopias Node
-- Blockchain Nodes - e.g. Cardano
+- Generated Spaces - e.g. [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
+- Blockchain Nodes - e.g. [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
 - [selfdriven Network Interfaces Node](/interfaces-node/)
 
 ### Infrastructure Ownership

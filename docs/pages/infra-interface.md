@@ -16,8 +16,9 @@ permalink: /infra-interface/
 ### Virtual
 - Generated Spaces - e.g. [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
 - Blockchain Nodes - e.g. [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
+     - Includes for the [octomics.io/network](https://octomics.io/network) blockchain (Ouroboros) node.
 - [selfdriven Network Interfaces Node](/interfaces-node/)
-
+   
 ### Infrastructure Ownership
 The selfdriven Network supports cooperative ownership of infrastructure resource in collaboration with [selfdriven Services](https://selfdriven.services) as the legal owner and manager.
 

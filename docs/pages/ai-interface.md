@@ -54,7 +54,7 @@ By aligning with the **Progressive Self-Actuation Framework**, the Interface ena
 **Method:** ai-gen-get-models  
 
 **Request (mode = reflect):**
-json
+```json
 {
   "apikey": "e7849d3a-d8a3-49c7-8b27-70b85047e0f1",
   "authkey": "28cc4fae-804f-4603-d08a-94fce2be90f2",

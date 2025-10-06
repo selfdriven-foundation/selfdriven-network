@@ -57,6 +57,7 @@ The Interface supports all widely recognised foundation models and integrates wi
 **Method:** ai-gen-get-models  
 
 **Request (mode = reflect):**
+
 ```json
 {
   "apikey": "e7849d3a-d8a3-49c7-8b27-70b85047e0f1",

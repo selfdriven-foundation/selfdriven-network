@@ -6,14 +6,17 @@ permalink: /ai-interface/
 
 # AI Interface
 
-The **selfdriven AI Interface** provides a unified gateway for accessing, orchestrating, and extending AI-driven capabilities across the **selfdriven.network** ecosystem.  
-It serves as the foundational layer that connects human identity, community context, and intelligent automation through a consistent, secure, and verifiable API surface.
+The selfdriven AI Interface provides a unified interface for accessing, orchestrating, and extending AI-driven capabilities across the **selfdriven.network** ecosystem.
 
-Designed for both developers and integrators, the Interface exposes a suite of RESTful methods for managing models, agents, conversations, vector stores, and assistants.  
+It serves as the foundational layer that connects human identity, community context, and intelligence through a consistent, secure, and verifiable surface.
+
+The Interface exposes a suite of methods for managing models, agents, conversations, vector stores, and assistants.  
 
 Each method is accessed via authenticated HTTP POST requests, with all request and response data transmitted as JSON over SSL for privacy and integrity.
 
 By aligning with the **Progressive Self-Actuation Framework**, the Interface enables communities, organisations, and practitioners to embed AI within trusted, context-aware environments — where every interaction is authenticated, auditable, and human-aligned.
+
+The Interface supports all widely recognised foundation models and integrates with OpenRouter to provide access to specialised models.
 
 ---
 

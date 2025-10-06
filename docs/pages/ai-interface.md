@@ -56,16 +56,15 @@ The Interface supports all widely recognised foundation models and integrates wi
 **Endpoint:** https://ai.interface.selfdriven.network  
 **Method:** ai-gen-get-models  
 
-**Request (mode = reflect):**
-
-```json
+**Request:**
+<pre><code class="language-json">
 {
   "apikey": "e7849d3a-d8a3-49c7-8b27-70b85047e0f1",
   "authkey": "28cc4fae-804f-4603-d08a-94fce2be90f2",
   "mode": { "type": "live" },
   "data": { "version": "1" }
 }
-
+</code></pre>
 
 -----
 

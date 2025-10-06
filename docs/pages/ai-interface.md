@@ -27,7 +27,7 @@ By aligning with the **Progressive Self-Actuation Framework**, the Interface ena
 ### Core Methods
 
 | Category | Method | Description |
-|-----------|---------|-------------|
+|:-----------|:---------|:-------------|
 | **Models** | ai-gen-get-models | Retrieve available AI model specifications. |
 | **Agents** | ai-gen-get-agents | List or describe active conversational agents. |
 | **Conversation** | ai-gen-conversation-chat, ai-gen-chat | Initiate or manage AI conversation threads. |
@@ -50,7 +50,7 @@ By aligning with the **Progressive Self-Actuation Framework**, the Interface ena
 
 ### Example
 
-**Endpoint:** https://ai.api.slfdrvn.io  
+**Endpoint:** https://ai.interface.selfdriven.network  
 **Method:** ai-gen-get-models  
 
 **Request (mode = reflect):**

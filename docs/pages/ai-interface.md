@@ -15,26 +15,26 @@ permalink: /ai-interface/
 
 **Methods**
 
-- “ai-gen-get-models”
-- "ai-gen-get-agents"
-- “ai-gen-conversation-chat”  
-- “ai-gen-chat”
+- ai-gen-get-models
+- ai-gen-get-agents
+- ai-gen-conversation-chat
+- ai-gen-chat
 
-- “ai-gen-util-service-models"
+- ai-gen-util-service-models
 
-- “ai-gen-util-vector-store-create"
-- “gen-util-vector-stores"
-- “ai-gen-util-vector-store-attach-file"
+- ai-gen-util-vector-store-create
+- gen-util-vector-stores
+- ai-gen-util-vector-store-attach-file
 
-- “ai-gen-util-file-upload"
-- “ai-gen-util-file-base64-upload"
-- “ai-gen-util-files"
+- ai-gen-util-file-upload
+- ai-gen-util-file-base64-upload
+- ai-gen-util-files
 
-- “ai-gen-util-assistant-create"
-- “ai-gen-util-assistants"
+- ai-gen-util-assistant-create
+- ai-gen-util-assistants
 
-- “ai-gen-util-thread-create"
-- “ai-gen-util-thread-chat"
+- ai-gen-util-thread-create
+- ai-gen-util-thread-chat
 
 **Notes**
 

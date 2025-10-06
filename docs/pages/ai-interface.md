@@ -11,13 +11,30 @@ permalink: /ai-interface/
 
 **Version**
 
-- 2.2 (JUN2025)
+- 2.3 (AUG2025)
 
 **Methods**
 
-* “ai-gen-get-models”  
-* “ai-gen-conversation-chat”  
-* “ai-gen-chat”
+- “ai-gen-get-models”
+- "ai-gen-get-agents"
+- “ai-gen-conversation-chat”  
+- “ai-gen-chat”
+
+- “ai-gen-util-service-models"
+
+- “ai-gen-util-vector-store-create"
+- “gen-util-vector-stores"
+- “ai-gen-util-vector-store-attach-file"
+
+- “ai-gen-util-file-upload"
+- “ai-gen-util-file-base64-upload"
+- “ai-gen-util-files"
+
+- “ai-gen-util-assistant-create"
+- “ai-gen-util-assistants"
+
+- “ai-gen-util-thread-create"
+- “ai-gen-util-thread-chat"
 
 **Notes**
 
@@ -25,7 +42,6 @@ permalink: /ai-interface/
 * All data to be sent in the body as JSON \- so protected by SSL.  
 * All response data returned as JSON.  
 * All http response statuses are 200 with status=”OK,ER”.
-
 
 **Methods**
 
@@ -35,7 +51,8 @@ permalink: /ai-interface/
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘get-specs’ apikey: \[supplied\] authkey: \[supplied\] data: version:  |
 | **Format** | JSON |
-| **Response Data** | method: ‘ai-gen-get-models’ status: ‘OK’, ‘ER’ \- if error then {error: {code:, description:}} data: \[ { name:, url:, id:, etag: modifieddatetime:, createddatetime: } \] |
+| **Response Data** | method: ‘ai-gen-get-models’ status: ‘OK’, ‘ER’ \- if error then {error: {code:, description:}} data: \[ { name:, url:, id:, etag: modifieddatetime:, createddatetime: } \] |
+
 
 | Method | Conversation (ai-gen-conversation-chat) |
 | :---- | :---- |
@@ -43,7 +60,7 @@ permalink: /ai-interface/
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘ai-gen-conversation-chat’ apikey: \[supplied\] authkey: \[supplied\] data: messagesystem: message: |
 | **Format** | JSON |
-| **Response Data** | method: ‘ai-gen-conversation-chat’ status: ‘OK’, ‘ER’ \- if error then {error: {code:, description:}} data: \[ { firstname:, lastname:, email: , id:, etag: modifieddatetime:, createddatetime: } \] |
+| **Response Data** | method: ‘ai-gen-conversation-chat’ status: ‘OK’, ‘ER’ \- if error then {error: {code:, description:}} data: \[ { firstname:, lastname:, email: , id:, etag: modifieddatetime:, createddatetime: } \]|
 
 **Examples**
 

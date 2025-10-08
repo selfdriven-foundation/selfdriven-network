@@ -29,6 +29,8 @@ permalink: /entity-interface/
 * “add-community-member”
 * “add-achievement”  
 * “add-token”
+
+[Plus all the entityOS organisational methods](https://learn.entityos.cloud/schema)
   
 ### Notes
 

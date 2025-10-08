@@ -6,17 +6,14 @@ permalink: /infra-interface/
 
 # Infra Interface
 
-### Physical
 - Telecommunications
-    - Unity Node - WorldMobile Network collab with Minutes Network
+    - Unity Node - WorldMobile Network collab with Minutes Network - [selfdriven.tel](https://selfdriven.tel)
 - Sensors
 - Automation
 - Robotics
-
-### Virtual
 - Generated Spaces - e.g. [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
 - Blockchain Nodes - e.g. [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
-     - Includes for the [octomics.io/network](https://octomics.io/network) blockchain (Ouroboros) node.
+     - [octomics.io/octochain](https://octomics.io/octochain) blockchain (Ouroboros) node.
 - [selfdriven Network Interfaces Node](/interfaces-node/)
    
 ### Infrastructure Ownership

@@ -16,7 +16,7 @@ permalink: /infra-interface/
    - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
 - Blockchain Nodes
    - [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
-   - [octochain Kit](https://octomics.io/octochain-kit) - own blockchain (Ouroboros).
+   - [octochain Kit](https://octomics.io/octochain-kit) - community blockchain (Ouroboros).
 - [selfdriven Network Interfaces Node](/interfaces-node/)
    
 ### Infrastructure Ownership

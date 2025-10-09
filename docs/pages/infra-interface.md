@@ -11,7 +11,7 @@ permalink: /infra-interface/
 - Sensors
 - Automation
 - Robotics
-   - [Figure Humanoid](https://youtu.be/@figureai)
+   - [Figure Humanoid](https://youtube.com/@figureai)
 - Generated Spaces
    - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
 - Blockchain Nodes

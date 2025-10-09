@@ -7,7 +7,7 @@ permalink: /infra-interface/
 # Infra Interface
 
 - Telecommunications
-    - Unity Node - WorldMobile Network collab with Minutes Network - [selfdriven.tel](https://selfdriven.tel)
+    - Unity Node - WorldMobile collab with Minutes Network - [selfdriven.tel](https://selfdriven.tel)
 - Sensors
 - Automation
 - Robotics

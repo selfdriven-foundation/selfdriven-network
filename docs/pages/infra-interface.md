@@ -11,9 +11,12 @@ permalink: /infra-interface/
 - Sensors
 - Automation
 - Robotics
-- Generated Spaces - e.g. [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
-- Blockchain Nodes - e.g. [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
-     - [octomics.io/octochain](https://octomics.io/octochain) blockchain (Ouroboros) node.
+   - [Figure Humanoid](https://youtu.be/Eu5mYMavctM)
+- Generated Spaces
+   - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
+- Blockchain Nodes
+   - [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
+   - [octomics.io/octochain](https://octomics.io/octochain) blockchain (Ouroboros) node.
 - [selfdriven Network Interfaces Node](/interfaces-node/)
    
 ### Infrastructure Ownership

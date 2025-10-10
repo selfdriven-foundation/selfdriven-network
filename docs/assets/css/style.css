@@ -162,15 +162,11 @@ body {
 }
 
 table {
-	border-collapse: separate;
-	border-spacing: 0;
-	border: 2px solid #000;
-	border-radius: 12px;
-	overflow: hidden; /* ensures the inner cells don’t poke through */
-	width: 100%;
-	max-width: 100%;
-	table-layout: fixed;            /* forces wrapping within cells */
-	border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 2px solid #000;
+  border-radius: 12px;
+  overflow: hidden; /* ensures the inner cells don’t poke through */
 }
 
 th,

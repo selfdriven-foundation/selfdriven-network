@@ -15,6 +15,11 @@ permalink: /infra-interface/
 ### Automation & Robotics
    - [Figure Humanoid](https://youtube.com/@figureai)
 
+### Intelligence & Sensor Nodes
+   - Generative Intelligence - [selfdriven.ai](https://www.selfdriven.ai/tech/)
+   - Physical Sensors - e.g. BioChar Production Input/Outputs
+      - Automation & Robotics integration
+
 ### Generated Spaces
    - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
 
@@ -25,10 +30,8 @@ permalink: /infra-interface/
 ### Entity & Attachments Nodes
    - [selfdriven Network Interfaces Node](/interfaces-node/)
 
-### Sensors
-   - Production Systems
-      - e.g. BioChar Production Input/Outputs
-   
+
+
 ## Communitised Infra
 The selfdriven Network, in collaboration with [selfdriven Services](https://selfdriven.services), supports communitised infrastructure - education, resources & participation.
 - [Example Communitised Infra Agreement](/infra-interface/communitised-agreement)
@@ -40,6 +43,7 @@ The selfdriven Network, in collaboration with [selfdriven Services](https://self
 ## Resources
 - [Communitised Infra Agreement](/infra-interface/communitised-agreement)
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces)
+
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
 - [Code GitHub Repo](https://github.com/selfdriven-tech/interface-infra)

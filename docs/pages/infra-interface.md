@@ -41,7 +41,6 @@ The selfdriven Network, in collaboration with [selfdriven Services](https://self
 ## Resources
 - [Communitised Infra Agreement](/infra-interface/communitised-agreement)
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces)
-
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
 - [Code GitHub Repo](https://github.com/selfdriven-tech/interface-infra)

@@ -6,7 +6,7 @@ permalink: /infra-interface/
 
 # Infra Interface
 
-**The Infra Interface connects digital and physical systems across telecommunications, robotics, automation, and blockchain.** - enabling data exchange, computation, coordination between community, service (including revenue generation), and on-chain environments
+**The Infra Interface connects digital and physical systems across telecommunications, robotics, automation, and blockchain** - enabling data exchange, computation, coordination between community, service (including revenue generation), and on-chain environments
 
 ### Telecommunications
    - [selfdriven.tel](https://selfdriven.tel)
@@ -24,7 +24,7 @@ permalink: /infra-interface/
 
 ### Entity & Attachments Nodes
    - [selfdriven Network Interfaces Node](/interfaces-node/)
-   
+
 ### Sensors
    - Production Systems
       - e.g. BioChar Production Input/Outputs
@@ -33,7 +33,7 @@ permalink: /infra-interface/
 The selfdriven Network, in collaboration with [selfdriven Services](https://selfdriven.services), supports communitised infrastructure - education, resources & participation.
 - [Example Communitised Infra Agreement](/infra-interface/communitised-agreement)
 
-## selfdriven Services Infra:
+## selfdriven Services Infra
 - [Unity Node](https://unitynodes.io) - [#SNIIUN01](https://adastat.net/policies/269366d093249b0cac98fa9fcbc374578429534e3b7adeac09f081e3) - [selfdriven.tel](https://selfdriven.tel)
 - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes) - #SNIICN01 - analysis stsge.
 

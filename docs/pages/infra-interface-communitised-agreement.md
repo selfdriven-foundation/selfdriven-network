@@ -45,8 +45,6 @@ The Members agree to collectively invest in and co-own the Unity Node, blending 
   * SDNIIUN01 tokens will be issued on the Cardano Network with its own policy.  
   * SDNIIUN01 tokens may be transferred, sold, or traded freely, representing ownership rights in this co-op.
 
----
-
 ### **4\. Roles & Responsibilities**
 
 * **Operations:** Members may volunteer or be delegated to run Unity Licenses (via phones), monitor rewards, or lease out licenses.
@@ -92,8 +90,6 @@ Members acknowledge:
 5. Build the marketing plan.  
 6. Start selling the 200 licences to run the app on iPhone/Android.  
 7. Reassess after 12 months.
-
-### 
 
 ### **9\. Unity Node**
 

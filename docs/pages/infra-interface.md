@@ -19,16 +19,16 @@ permalink: /infra-interface/
    - [octochain Kit](https://octomics.io/octochain-kit) - community blockchain (Ouroboros).
 - [selfdriven Network Interfaces Node](/interfaces-node/)
    
-### Infra Ownership
+## Infra Ownership
 The selfdriven Network supports cooperative ownership of infrastructure resource in collaboration with [selfdriven Services](https://selfdriven.services) as the legal owner and manager.
 
-**Current Infra:**
+### selfdriven Services Infra:
 - [Unity Node](https://unitynodes.io) - [#SNIIUN01](https://adastat.net/policies/269366d093249b0cac98fa9fcbc374578429534e3b7adeac09f081e3) - [selfdriven.tel](https://selfdriven.tel)
 - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes) - #SNIICN01 - analysis stsge.
 
-### Resources
+## Resources
+- [Communitised Infra Agreement](/infra-interface/communitised-agreement)
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces)
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
 - [Code GitHub Repo](https://github.com/selfdriven-tech/interface-infra)
-

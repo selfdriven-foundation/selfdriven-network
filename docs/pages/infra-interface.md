@@ -10,16 +10,21 @@ permalink: /infra-interface/
 
 ### Telecommunications
    - [selfdriven.tel](https://selfdriven.tel)
-      - Unity Node - WorldMobile collab with Minutes Network 
+      - Unity Node - WorldMobile collab with Minutes Network
+
 ### Automation & Robotics
    - [Figure Humanoid](https://youtube.com/@figureai)
+
 ### Generated Spaces
    - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
+
 ### Blockchain Nodes
    - [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
    - [octochain Kit](https://octomics.io/octochain-kit) - community blockchain (Ouroboros).
+
 ### Entity & Attachments Nodes
    - [selfdriven Network Interfaces Node](/interfaces-node/)
+   
 ### Sensors
    - Production Systems
       - e.g. BioChar Production Input/Outputs

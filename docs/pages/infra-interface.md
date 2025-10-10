@@ -6,7 +6,7 @@ permalink: /infra-interface/
 
 # Infra Interface
 
-** The Infra Interface connects digital and physical systems across telecommunications, robotics, automation, and blockchain. Each node operates as part of the selfdriven Network’s decentralised infrastructure layer — enabling data exchange, computation, and coordination between community, service, and on-chain environments.**
+**The Infra Interface connects digital and physical systems across telecommunications, robotics, automation, and blockchain. Each node operates as part of the selfdriven Network’s decentralised infrastructure layer — enabling data exchange, computation, and coordination between community, service, and on-chain environments.**
 
 - Telecommunications
    - [selfdriven.tel](https://selfdriven.tel)

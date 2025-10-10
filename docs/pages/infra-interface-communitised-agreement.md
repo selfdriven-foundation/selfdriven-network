@@ -96,7 +96,7 @@ Members acknowledge:
 | selfdriven Network Infra Interface ID | SDNIIUN01 |
 | :---- | :---- |
 | **Unity Node NFT Ethereum Address** | 0x... |
-| **Commitments Address**  | addr1qyg6kahw6e48vegc3zpx53m4a53zggam277jsmew5wk240kpqnhzwygkzcd6tr3c438vkjeqyg9vrqxhay0gtef87z7qrumjwk \- Managed by selfdriven Services |
+| **Commitments Address**  | addr1qyg6kahw6e48vegc3zpx53m4a53zggam277 \ jsmew5wk240kpqnhzwygkzcd6tr3c438vkjeqyg9vrqxhay0gtef87z7qrumjwk \- Managed by selfdriven Services |
 | **PolicyID** | 269366d093249b0cac98fa9fcbc374578429534e3b7adeac09f081e3 |
 | **Referral Code** | SELFDRIVEN |
 | **Website** | https://selfdriven.tel |

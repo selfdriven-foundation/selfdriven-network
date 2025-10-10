@@ -6,21 +6,21 @@ permalink: /infra-interface/
 
 # Infra Interface
 
-**The Infra Interface connects digital and physical systems across telecommunications, robotics, automation, and blockchain. Each node operates as part of the selfdriven Network’s decentralised infrastructure layer — enabling data exchange, computation, and coordination between community, service, and on-chain environments.**
+**The Infra Interface connects digital and physical systems across telecommunications, robotics, automation, and blockchain.** - enabling data exchange, computation, coordination between community, service (including revenue generation), and on-chain environments
 
-- Telecommunications
+### Telecommunications
    - [selfdriven.tel](https://selfdriven.tel)
       - Unity Node - WorldMobile collab with Minutes Network 
-- Automation & Robotics
+### Automation & Robotics
    - [Figure Humanoid](https://youtube.com/@figureai)
-- Generated Spaces
+### Generated Spaces
    - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
-- Blockchain Nodes
+### Blockchain Nodes
    - [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
    - [octochain Kit](https://octomics.io/octochain-kit) - community blockchain (Ouroboros).
-- Entity & Attachments Nodes
+### Entity & Attachments Nodes
    - [selfdriven Network Interfaces Node](/interfaces-node/)
-- Sensors
+### Sensors
    - Production Systems
       - e.g. BioChar Production Input/Outputs
    

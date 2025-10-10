@@ -15,7 +15,7 @@ permalink: /infra-interface/
 ### Automation & Robotics
    - [Figure Humanoid](https://youtube.com/@figureai)
 
-### Intelligence & Sensor Nodes
+### Intelligence & Sensors
    - Generative Intelligence - [selfdriven.ai](https://www.selfdriven.ai/tech/)
    - Physical Sensors - e.g. BioChar Production Input/Outputs
       - Automation & Robotics integration
@@ -23,14 +23,12 @@ permalink: /infra-interface/
 ### Generated Spaces
    - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
 
-### Blockchain Nodes
+### Blockchains
    - [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
    - [octochain Kit](https://octomics.io/octochain-kit) - community blockchain (Ouroboros).
 
-### Entity & Attachments Nodes
+### Entities & Attachments
    - [selfdriven Network Interfaces Node](/interfaces-node/)
-
-
 
 ## Communitised Infra
 The selfdriven Network, in collaboration with [selfdriven Services](https://selfdriven.services), supports communitised infrastructure - education, resources & participation.

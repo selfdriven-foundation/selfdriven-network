@@ -20,9 +20,9 @@ permalink: /infra-interface/
    - Physical Sensors - e.g. BioChar Production Input/Outputs
       - Automation & Robotics integration
 
-### Generated Spaces
+### Generated Space & Entities
    - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
-   - Physical Production - 3D Printing, Nano-Tech
+   - Physical Entity Production - 3D Printing, Nano-Tech
 
 ### Blockchains
    - [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)

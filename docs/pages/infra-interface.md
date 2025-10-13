@@ -22,6 +22,7 @@ permalink: /infra-interface/
 
 ### Generated Spaces
    - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
+   - Physical Production - 3D Printing, Nano-Tech
 
 ### Blockchains
    - [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)

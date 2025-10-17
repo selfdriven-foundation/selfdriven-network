@@ -21,7 +21,7 @@ permalink: /infra-interface/
       - Automation & Robotics integration
 
 ### Generated Space & Entities
-   - [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
+   - [Infinity Rising Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes/copi-file-node)
    - Physical Entity Production - 3D Printing, Nano-Tech
 
 ### Blockchains
@@ -37,7 +37,7 @@ The selfdriven Network, in collaboration with [selfdriven Services](https://self
 
 ## selfdriven Services Infra
 - [Unity Node](https://unitynodes.io) - [#SNIIUN01](https://adastat.net/policies/269366d093249b0cac98fa9fcbc374578429534e3b7adeac09f081e3) - [selfdriven.tel](https://selfdriven.tel)
-- [Cornucopias Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes) - #SNIICN01 - analysis stage.
+- [Infinity Rising Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes) - #SNIICN01 "SELF1" - analysis stage.
 
 ## Resources
 - [Communitised Infra Agreement](/infra-interface/communitised-agreement)

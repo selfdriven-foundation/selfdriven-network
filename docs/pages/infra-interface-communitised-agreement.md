@@ -35,7 +35,7 @@ The Members agree to collectively invest in and communitise the Unity Node, blen
 
 * **Member Contributions:**  
   * Minimum: USD 250  
-  * Maximum: USD 1,500
+  * Maximum: USD 2,000
 
 * **Ownership Shares:**  
   * Each Member will receive **SDNIIUN01 tokens** (100000 total) on Cardano equal to their USD contribution (**1**USD \= **20**SDNIIUN01).  

@@ -26,7 +26,7 @@ permalink: /infra-interface/
 
 ### Blockchains
    - [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
-   - [octochain Kit](https://octomics.io/octochain-kit) - community blockchain (Ouroboros).
+   - [octochain Kit](https://octomics.io/octochain/kit) - community blockchain (Ouroboros).
 
 ### Entities & Attachments
    - [selfdriven Network Interfaces Node](/interfaces-node/)

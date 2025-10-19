@@ -14,7 +14,8 @@ permalink: /attachment-interface/
 
 ### Method Names
 
-- "attachment-ipfs-file-upload" 
+- "attachment-ipfs-file-upload"
+- "attachment-github-repo-file-upload" - upload as a commit to a github repo
 
 ### Notes
 

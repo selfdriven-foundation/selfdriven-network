@@ -96,6 +96,7 @@ The Interface supports all widely recognised foundation models and integrates wi
 ## Methods
 
 ### Get Models (ai-gen-get-models)
+
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘get-specs’ apikey: \[supplied\] authkey: \[supplied\] data: version:  |
@@ -104,6 +105,7 @@ The Interface supports all widely recognised foundation models and integrates wi
 
 
 # Conversation Chat (ai-gen-conversation-chat)
+
 | **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
 | **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
 | **Request Data** | method: ‘ai-gen-conversation-chat’ apikey: \[supplied\] authkey: \[supplied\] data: messagesystem: message: |

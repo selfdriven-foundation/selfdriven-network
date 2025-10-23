@@ -28,18 +28,21 @@ permalink: /infra-interface/
    - [Cardano Stake Pool Operator](https://cardano.org/stake-pool-operation/)
    - [octochain Kit](https://octomics.io/octochain/kit) - community blockchain (Ouroboros).
 
+### Resource Addressing
+   - [Handshake DNS Protocol](/infra-interface/handshake/) - selfdriven TLD
+
 ### Entities & Attachments
    - [selfdriven Network Interfaces Node](/interfaces-node/)
 
-## Communitised Infra
+### Communitised Infra
 The selfdriven Network, in collaboration with [selfdriven Services](https://selfdriven.services), supports communitised infrastructure - education, resources & participation.
 - [Example Communitised Infra Agreement](/infra-interface/communitised-agreement)
 
-## selfdriven Services Infra
+### selfdriven Services Infra
 - [Unity Node](https://unitynodes.io) - [#SNIIUN01](https://adastat.net/policies/269366d093249b0cac98fa9fcbc374578429534e3b7adeac09f081e3) - [selfdriven.tel](https://selfdriven.tel)
 - [Infinity Rising Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes) - #SNIICN01 "SELF1" - analysis stage.
 
-## Resources
+### Resources
 - [Communitised Infra Agreement](/infra-interface/communitised-agreement)
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces)
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)

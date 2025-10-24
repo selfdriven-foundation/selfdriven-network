@@ -19,3 +19,7 @@ We plan to use it as part of the selfdriven.network descentralised resource addr
 
 - [hns.to/selfdriven/](https://hns.to/selfdriven/)
 - [hns.to/app.selfdriven/](https://hns.to/app.selfdriven/)
+
+### Related
+- [Human & Social Interfaces](/human-social-interfaces/)
+- [SSI Interface](/ssi-interface/)

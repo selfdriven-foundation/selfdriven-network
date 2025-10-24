@@ -11,7 +11,7 @@ One bad record in a DNS zone can take down a lot of resources — even in a dece
 - [Handshake DNS Protocol](https://handshake.org/)
 - [namebase.io Explainer](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/)
 
-### "selfdriven" TLD
+### .selfdriven Top-Tevel-Domain (TLD)
 
 The selfdriven Foundation owns the Handshake top-level-domain.
 

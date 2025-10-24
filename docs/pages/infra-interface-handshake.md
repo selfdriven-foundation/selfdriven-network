@@ -13,7 +13,7 @@ One bad record in a DNS zone can take down a lot of resources — even in a dece
 
 ### .selfdriven Top-Tevel-Domain (TLD)
 
-The selfdriven Foundation owns the Handshake top-level-domain.
+The selfdriven Foundation owns the *.selfdriven* Handshake top-level-domain.
 
 We plan to use it as part of the selfdriven.network descentralised resource address system, but the interim we have set up redirects from Handshake DNS to [ICANN DNS](https://www.icann.org/resources/pages/dns-2022-09-13-en?utm_source=chatgpt.com):
 

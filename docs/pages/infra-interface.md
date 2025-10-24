@@ -14,6 +14,7 @@ permalink: /infra-interface/
 
 ### Automation & Robotics
    - [Figure Humanoid](https://youtube.com/@figureai)
+   - [Modular Robot D1](https://www.youtube.com/watch?v=GbL3mjoZtOA)
 
 ### Intelligence & Sensors
    - Generative Intelligence - [selfdriven.ai](https://www.selfdriven.ai/tech/)

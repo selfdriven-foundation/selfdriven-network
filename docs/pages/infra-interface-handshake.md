@@ -6,7 +6,7 @@ permalink: /infra-interface/handshake/
 
 # Infra Interface - Handshake
 
-One bad record in a DNS zone can take down a lot of resources — even in a decentralised system.
+Just one bad record in the Domain Name System (DNS) can take down a lot of resources — even in a decentralised system. The experimental peer-to-peer root naming system Handshake DNS looks to solve this problem.
 
 - [Handshake DNS Protocol](https://handshake.org/)
 - [namebase.io Explainer](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/)

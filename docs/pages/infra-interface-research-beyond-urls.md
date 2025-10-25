@@ -1,10 +1,12 @@
 ---
+layout: default
+permalink: /infra-interface/research/beyond-urls/
 title: "Beyond URLs: How the Handshake Protocol Anchors the AI-Driven Internet"
 description: "As AI transforms how we find and trust information, Handshake offers a decentralised foundation for meaning, identity, and authenticity in a post-URL world."
 author: "selfdriven.foundation"
 tags: ["Handshake", "AI", "Decentralisation", "DID", "Web3", "Infrastructure"]
 date: 2025-10-25
-image: /images/handshake-ai-stack.svg
+image: /images/selfdriven-network-infra-rsearch-beyond-urls.png
 ---
 
 Just one bad DNS record can take down half the internet.  

@@ -31,6 +31,7 @@ permalink: /infra-interface/
 
 ### Resource Addressing
    - [Handshake DNS Protocol](/infra-interface/handshake/) - selfdriven TLD
+   - [Research: Handshake Beyond URLs](/infra-interface/research/handshake-beyond-urls/)
 
 ### Entities & Attachments
    - [selfdriven Network Interfaces Node](/interfaces-node/)

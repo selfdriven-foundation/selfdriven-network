@@ -162,3 +162,9 @@ Handshake gives those proofs a name the world can trust.
 
 In a selfdriven world, intelligence isn’t centralised — it’s verified.  
 And that’s the kind of infrastructure the AI era deserves.
+
+---
+
+### Research
+
+- [Handshake Beyond URLs](/infra-interface/research/handshake-beyond-urls/)

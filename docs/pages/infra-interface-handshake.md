@@ -21,5 +21,7 @@ We plan to use it as part of the selfdriven.network descentralised resource addr
 - [hns.to/app.selfdriven/](https://hns.to/app.selfdriven/)
 
 ### Related
+
+- [Research: Handshake Beyond URLs](/infra-interface/research/handshake-beyond-urls/)
 - [Human & Social Interfaces](/human-social-interfaces/)
 - [SSI Interface](/ssi-interface/)

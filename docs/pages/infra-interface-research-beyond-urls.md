@@ -148,7 +148,7 @@ Handshake keeps that evolution *anchored* — ensuring that as intelligence beco
 
 ## Diagram: The Post-URL Internet Stack
 
-<img src="/images/selfdriven-network-infra-rsearch-beyond-urls.png" style="max-width:600px; border-radius: 20px;">
+<img src="/images/selfdriven-network-infra-research-beyond-urls.png" style="max-width:600px; border-radius: 20px;">
 
 > **Diagram:**  
 > In the post-URL internet, AI resolves intent via decentralised identity (DIDs), naming (Handshake), and data (IPFS) layers — ensuring provenance and authenticity without centralised DNS.

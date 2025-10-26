@@ -5,7 +5,7 @@ title: "Handshake and the Post-URL Internet"
 
 ---
 
-## Handshake and the Post-URL Internet
+## Research: Handshake and Beyond URLs
 
 ### Handshake = Decentralised Naming Layer
 

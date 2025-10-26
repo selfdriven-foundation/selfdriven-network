@@ -5,9 +5,9 @@ title: "Handshake and the Post-URL Internet"
 
 ---
 
-# Handshake and the Post-URL Internet
+## Handshake and the Post-URL Internet
 
-## 1. Handshake = Decentralised Naming Layer
+### Handshake = Decentralised Naming Layer
 
 **At its core, Handshake (HNS) replaces ICANN’s centralised DNS root with a blockchain-based registry of top-level domains (TLDs)**.  
 
@@ -15,9 +15,7 @@ So instead of `.com` or `.org` being controlled by Verisign or ICANN, *you* can,
 
 That makes it a **trustless namespace** — no central root authority, no revocation risk.
 
----
-
-## 2. The Naming Layer Is Still Needed — Even for AI
+### The Naming Layer Is Still Needed — Even for AI
 
 Even in a post-URL world, something has to map **human/agent intent → resource identity**.  
 
@@ -38,9 +36,7 @@ Handshake anchors **namespaces** that can point to:
 
 That gives AIs and humans a **stable trust root** when verifying provenance.
 
----
-
-## 3. Handshake + DIDs = Verifiable Web Roots
+### Handshake + DIDs = Verifiable Web Roots
 
 A Handshake name could *become* a DID controller:
 
@@ -53,9 +49,7 @@ That DID could reference:
 
 So **HNS provides the anchor**, while **SSI provides the trust fabric**.
 
----
-
-## 4. From DNS → DRS (Decentralised Resource System)
+### From DNS → DRS (Decentralised Resource System)
 
 Imagine the progression:
 
@@ -68,9 +62,7 @@ Imagine the progression:
 
 In that sense, **Handshake is the bootstrap system** — it lets AIs, agents, and organisations reference authentic roots of knowledge or identity without trusting ICANN or Google.
 
----
-
-## 5. AI Context Resolution Example
+### AI Context Resolution Example
 
 When an AI receives an intent like:
 
@@ -84,9 +76,7 @@ It might:
 
 All without `https://` — but with stronger authenticity.
 
----
-
-## 6. In Summary
+### In Summary
 
 **Handshake gives AI systems a **neutral, cryptographic naming layer for:**
 - Decentralised trust roots  

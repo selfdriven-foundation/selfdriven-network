@@ -9,16 +9,15 @@ date: 2025-10-25
 image: /images/selfdriven-network-infra-research-beyond-urls.png
 ---
 
-**Just one bad DNS record can have a significant impact.**
+## Just one bad DNS record can have a significant impact on the ability reach internet based services.**
+
 That’s not a theory — it happens. The centralised structure of DNS (and the root authorities that govern it) has always been both the backbone and the bottleneck of the web.  
 
 As artificial intelligence begins to automate more of how we find, trust, and connect information, it’s worth asking:  
 - **Do we still need URLs in a world run by AI?**  
 - And if not, what replaces them?
 
----
-
-## Context: Why Now
+### Context: Why Now
 
 The web was built for humans navigating pages — not for intelligent systems negotiating meaning.  
 
@@ -29,9 +28,7 @@ The URL, the certificate authority, and even the server are relics of a centrali
 We’re entering an age where *context*, *trust*, and *intent* matter more than *location*.  
 That shift demands a new kind of addressing — one that’s **decentralised**, **verifiable**, and **semantic**.  
 
----
-
-## From Locations to Intentions
+### From Locations to Intentions
 
 The URL (`https://example.com/resource`) was designed for humans — a readable pointer to where something lives.  
 But AI doesn’t need *where.* It needs **what** and **why.**
@@ -46,9 +43,7 @@ It cares whether the document is:
 
 That’s a shift from **location-based addressing** to **meaning-based resolution** — or what you might call **intent-based networking**.
 
----
-
-## The Architecture of Trust
+### The Architecture of Trust
 
 To build an internet that can be reasoned about by AI — not just indexed — we need a new architecture of trust.
 
@@ -62,9 +57,7 @@ To build an internet that can be reasoned about by AI — not just indexed — w
 
 Handshake sits in the **Naming layer** — the foundation that links human-readable meaning to verifiable cryptographic truth.
 
----
-
-## Handshake: The Decentralised Root Zone
+### Handshake: The Decentralised Root Zone
 
 Handshake replaces the centralised DNS root (run by ICANN and a few large registries) with a **blockchain-based registry of top-level domains**.  
 
@@ -77,9 +70,7 @@ That means:
 
 Your name becomes a **trust root**, one that AI agents can resolve without relying on corporate or government intermediaries.
 
----
-
-## Handshake + DIDs = The New Trust Fabric
+### Handshake + DIDs = The New Trust Fabric
 
 In the AI-first internet, we’ll likely see a stack like this:
 
@@ -96,9 +87,7 @@ and **AI agents** resolve intent dynamically.
 
 Instead of a fragile web of URLs, we get a self-verifying network of meaning — where names are permanent and trust is native.
 
----
-
-## Interoperability and Resolver Bridges
+### Interoperability and Resolver Bridges
 
 Handshake doesn’t replace DNS overnight — it *bridges* it.  
 Resolver gateways like [hns.to](https://hns.to) allow `.hns` domains to resolve from traditional browsers, while AI systems can query Handshake’s blockchain directly.  
@@ -110,9 +99,7 @@ That means systems can operate across both **Web2 and Web3 namespaces**, allowin
 
 This bridge layer keeps the web accessible while laying the foundation for a trust-native internet.
 
----
-
-## AI Context Resolution in Action
+### AI Context Resolution in Action
 
 **Let’s imagine the next generation of the selfdriven.network AI interface:**
 
@@ -124,9 +111,7 @@ This bridge layer keeps the web accessible while laying the foundation for a tru
 
 That’s **AI-native resource resolution** — grounded in decentralised naming and verifiable identity.
 
----
-
-## What It Enables
+### What It Enables
 
 A Handshake-based addressing system makes possible:
 - **Trustless publication:** Governance documents, constitutions, or charters stored immutably and verifiably.  
@@ -134,9 +119,7 @@ A Handshake-based addressing system makes possible:
 - **Decentralised governance:** Organisations publishing verifiable decisions without dependency on central web infrastructure.  
 - **Human-readable sovereignty:** A `.selfdriven` namespace as both brand and blockchain identity — recognisable, but cryptographically secure.
 
----
-
-## Why It Matters
+### Why It Matters
 
 The internet began as a network of **locations**,  
 evolved into a network of **links**,  
@@ -146,17 +129,13 @@ Handshake keeps that evolution *anchored* — ensuring that as intelligence beco
 
 Handshake is DNS for the self-aware web — where names don’t just locate things, they mean things.
 
----
-
-## Diagram: The Post-URL Internet Stack
+### Diagram: The Post-URL Internet Stack
 
 <img src="/images/selfdriven-network-infra-research-beyond-urls.png" style="max-width:600px; border-radius: 20px;">
 
 *In the post-URL internet, AI resolves intent via decentralised identity (DIDs), naming (Handshake), and data (IPFS) layers — ensuring provenance and authenticity without centralised DNS.*
 
----
-
-## Closing Reflection
+### Closing Reflection
 
 The next web won’t be built from *pages* — it’ll be built from *proofs.*  
 Handshake gives those proofs a name the world can trust.  

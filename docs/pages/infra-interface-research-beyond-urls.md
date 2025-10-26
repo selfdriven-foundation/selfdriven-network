@@ -8,8 +8,9 @@ tags: ["Handshake", "AI", "Decentralisation", "DID", "Web3", "Infrastructure"]
 date: 2025-10-25
 image: /images/selfdriven-network-infra-research-beyond-urls.png
 ---
+## Research: Beyond URLs
 
-## Just one bad DNS record can have a significant impact on the ability reach internet based services.
+**Just one bad DNS record can have a significant impact on the ability reach internet based services.**
 
 That’s not a theory — it happens. The centralised structure of DNS (and the root authorities that govern it) has always been both the backbone and the bottleneck of the web.  
 

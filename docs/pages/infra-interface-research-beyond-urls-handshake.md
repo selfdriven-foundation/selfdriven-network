@@ -9,8 +9,9 @@ title: "Handshake and the Post-URL Internet"
 
 ## 1. Handshake = Decentralised Naming Layer
 
-At its core, **Handshake (HNS)** replaces **ICANN’s centralised DNS root** with a **blockchain-based registry of top-level domains (TLDs)**.  
-So instead of `.com` or `.org` being controlled by Verisign or ICANN, *you* can own `.selfdriven` directly — cryptographically, not via lease.
+**At its core, Handshake (HNS) replaces ICANN’s centralised DNS root with a blockchain-based registry of top-level domains (TLDs)**.  
+
+So instead of `.com` or `.org` being controlled by Verisign or ICANN, *you* can, by example, own `.selfdriven` directly — cryptographically, not via lease.
 
 That makes it a **trustless namespace** — no central root authority, no revocation risk.
 
@@ -19,10 +20,11 @@ That makes it a **trustless namespace** — no central root authority, no revoca
 ## 2. The Naming Layer Is Still Needed — Even for AI
 
 Even in a post-URL world, something has to map **human/agent intent → resource identity**.  
+
 Handshake can provide that base layer of truth:
 
 | Layer | Role | Handshake’s Fit |
-|-------|------|-----------------|
+|:------|:-----|:----------------|
 | **Identity layer** | Who is this? | DID: `did:selfdriven:foundation` |
 | **Naming layer** | What’s it called / reachable as? | HNS TLD `.selfdriven` |
 | **Intent layer** | What do I want to do? | AI resolves action: “fetch the governance charter” |
@@ -57,8 +59,8 @@ So **HNS provides the anchor**, while **SSI provides the trust fabric**.
 
 Imagine the progression:
 
-| Old Web | Emerging Web |
-|----------|---------------|
+| Existing Web | Emerging Web |
+|:---------|:--------------|
 | DNS (centralised) | HNS (decentralised) |
 | URLs | DIDs / CIDs / Intents |
 | HTTPS certs | Cryptographic proofs |
@@ -72,7 +74,7 @@ In that sense, **Handshake is the bootstrap system** — it lets AIs, agents, an
 
 When an AI receives an intent like:
 
-> “Find the verified constitution for the selfdriven.foundation”
+*“Find the verified constitution for the selfdriven.foundation”*
 
 It might:
 1. Resolve `.selfdriven` via Handshake (to get a DID or CID).  
@@ -84,9 +86,9 @@ All without `https://` — but with stronger authenticity.
 
 ---
 
-## 6. TL;DR
+## 6. In Summary
 
-Handshake gives AI systems a **neutral, cryptographic naming layer** for:
+**Handshake gives AI systems a **neutral, cryptographic naming layer for:**
 - Decentralised trust roots  
 - Verifiable identity linkage  
 - Cross-protocol interoperability (DID/IPFS/Intent graphs)

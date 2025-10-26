@@ -9,12 +9,12 @@ date: 2025-10-25
 image: /images/selfdriven-network-infra-research-beyond-urls.png
 ---
 
-Just one bad DNS record can take down half the internet.  
+**Just one bad DNS record can have a significant impact.**
 That’s not a theory — it happens. The centralised structure of DNS (and the root authorities that govern it) has always been both the backbone and the bottleneck of the web.  
 
 As artificial intelligence begins to automate more of how we find, trust, and connect information, it’s worth asking:  
-**Do we still need URLs in a world run by AI?**  
-And if not, what replaces them?
+- **Do we still need URLs in a world run by AI?**  
+- And if not, what replaces them?
 
 ---
 
@@ -22,7 +22,8 @@ And if not, what replaces them?
 
 The web was built for humans navigating pages — not for intelligent systems negotiating meaning.  
 
-As AI systems begin to act on our behalf — managing identity, verifying credentials, and mediating value — the infrastructure that supports them needs to evolve.  
+As AI systems begin to act on our behalf — managing identity, verifying credentials, and mediating value — the infrastructure that supports them needs to evolve.
+
 The URL, the certificate authority, and even the server are relics of a centralised era.  
 
 We’re entering an age where *context*, *trust*, and *intent* matter more than *location*.  
@@ -36,6 +37,7 @@ The URL (`https://example.com/resource`) was designed for humans — a readable 
 But AI doesn’t need *where.* It needs **what** and **why.**
 
 When an AI is asked to “fetch the verified constitution for selfdriven.foundation,” it doesn’t care which server hosts it.  
+
 It cares whether the document is:
 - Authentic  
 - Current  
@@ -51,12 +53,12 @@ That’s a shift from **location-based addressing** to **meaning-based resolutio
 To build an internet that can be reasoned about by AI — not just indexed — we need a new architecture of trust.
 
 | Layer | Function | Example Technology |
-|--------|-----------|--------------------|
+|:------|:---------|:-------------------|
 | **Meaning** | AI / Intent Resolution | GPT, Agentic AI |
-| **Trust** | DIDs / VCs / zkProofs | Identus, PRISM, SpruceID |
-| **Naming** | Handshake / ENS / DID:WEB | `.selfdriven` |
+| **Trust** | SSI (DIDs / VCs) / zkProofs | Identus etc |
+| **Naming** | Handshake / ENS / did:web | `.selfdriven` |
 | **Data** | IPFS / Arweave / Ceramic | Persistent content |
-| **Execution** | Smart Contracts / Logic | Plutus, Midnight, Solidity |
+| **Execution** | Smart Contracts / Logic | Plutus, Midnight |
 
 Handshake sits in the **Naming layer** — the foundation that links human-readable meaning to verifiable cryptographic truth.
 
@@ -65,6 +67,7 @@ Handshake sits in the **Naming layer** — the foundation that links human-reada
 ## Handshake: The Decentralised Root Zone
 
 Handshake replaces the centralised DNS root (run by ICANN and a few large registries) with a **blockchain-based registry of top-level domains**.  
+
 When you own a Handshake name like `.selfdriven`, you don’t lease it — you own it cryptographically.
 
 That means:
@@ -81,7 +84,7 @@ Your name becomes a **trust root**, one that AI agents can resolve without relyi
 In the AI-first internet, we’ll likely see a stack like this:
 
 | Layer | Role | Example |
-|-------|------|----------|
+|:------|:-----|:---------|
 | **Intent Layer** | What you want | “Fetch verified governance charter” |
 | **Identity Layer** | Who’s involved | `did:selfdriven:foundation` |
 | **Naming Layer** | Where it’s anchored | `.selfdriven` (Handshake TLD) |
@@ -111,7 +114,7 @@ This bridge layer keeps the web accessible while laying the foundation for a tru
 
 ## AI Context Resolution in Action
 
-Let’s imagine the next generation of the selfdriven.network AI assistant:
+**Let’s imagine the next generation of the selfdriven.network AI interface:**
 
 1. You ask: “Show me the official constitution for the selfdriven.foundation.”  
 2. The AI looks up `.selfdriven` on the Handshake blockchain.  
@@ -141,8 +144,7 @@ and is now becoming a network of **intent**.
 
 Handshake keeps that evolution *anchored* — ensuring that as intelligence becomes the new interface, we still have a foundation of authenticity beneath it.
 
-> Handshake is DNS for the self-aware web —  
-> where names don’t just locate things, they mean things.
+Handshake is DNS for the self-aware web — where names don’t just locate things, they mean things.
 
 ---
 
@@ -150,8 +152,7 @@ Handshake keeps that evolution *anchored* — ensuring that as intelligence beco
 
 <img src="/images/selfdriven-network-infra-research-beyond-urls.png" style="max-width:600px; border-radius: 20px;">
 
-> **Diagram:**  
-> In the post-URL internet, AI resolves intent via decentralised identity (DIDs), naming (Handshake), and data (IPFS) layers — ensuring provenance and authenticity without centralised DNS.
+*In the post-URL internet, AI resolves intent via decentralised identity (DIDs), naming (Handshake), and data (IPFS) layers — ensuring provenance and authenticity without centralised DNS.*
 
 ---
 
@@ -167,5 +168,5 @@ And that’s the kind of infrastructure the AI era deserves.
 
 ### Research
 
-- [Handshake Beyond URLs](/infra-interface/research/handshake-beyond-urls/)
+- [Handshake & Beyond URLs](/infra-interface/research/handshake-beyond-urls/)
 - [selfdriven Foundation Research](https://research.selfdriven.foundation)

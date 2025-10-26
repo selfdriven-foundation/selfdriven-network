@@ -12,7 +12,7 @@ title: "Handshake and the Post-URL Internet"
 At its core, **Handshake (HNS)** replaces **ICANN’s centralised DNS root** with a **blockchain-based registry of top-level domains (TLDs)**.  
 So instead of `.com` or `.org` being controlled by Verisign or ICANN, *you* can own `.selfdriven` directly — cryptographically, not via lease.
 
-👉 That makes it a **trustless namespace** — no central root authority, no revocation risk.
+That makes it a **trustless namespace** — no central root authority, no revocation risk.
 
 ---
 
@@ -100,3 +100,4 @@ Handshake gives AI systems a **neutral, cryptographic naming layer** for:
 ### Research
 
 - [Beyond URLs](/infra-interface/research/beyond-urls/)
+- [selfdriven Foundation Research](https://research.selfdriven.foundation)

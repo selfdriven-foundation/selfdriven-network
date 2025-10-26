@@ -6,7 +6,7 @@ description: "As AI transforms how we find and trust information, Handshake offe
 author: "selfdriven.foundation"
 tags: ["Handshake", "AI", "Decentralisation", "DID", "Web3", "Infrastructure"]
 date: 2025-10-25
-image: /images/selfdriven-network-infra-rsearch-beyond-urls.png
+image: /images/selfdriven-network-infra-research-beyond-urls.png
 ---
 
 Just one bad DNS record can take down half the internet.  
@@ -168,3 +168,4 @@ And that’s the kind of infrastructure the AI era deserves.
 ### Research
 
 - [Handshake Beyond URLs](/infra-interface/research/handshake-beyond-urls/)
+- [selfdriven Foundation Research](https://research.selfdriven.foundation)

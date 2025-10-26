@@ -25,3 +25,5 @@ We plan to use it as part of the selfdriven.network descentralised resource addr
 - [Research: Handshake Beyond URLs](/infra-interface/research/handshake-beyond-urls/)
 - [Human & Social Interfaces](/human-social-interfaces/)
 - [SSI Interface](/ssi-interface/)
+- [Beyond URLs](/infra-interface/research/beyond-urls/)
+- [Handshake & Beyond URLs](/infra-interface/research/handshake-beyond-urls/)

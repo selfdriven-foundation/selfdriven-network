@@ -18,7 +18,7 @@ And if not, what replaces them?
 
 ---
 
-## 🧭 Context: Why Now
+## Context: Why Now
 
 The web was built for humans navigating pages — not for intelligent systems negotiating meaning.  
 
@@ -30,7 +30,7 @@ That shift demands a new kind of addressing — one that’s **decentralised**, 
 
 ---
 
-## 🌐 From Locations to Intentions
+## From Locations to Intentions
 
 The URL (`https://example.com/resource`) was designed for humans — a readable pointer to where something lives.  
 But AI doesn’t need *where.* It needs **what** and **why.**
@@ -46,7 +46,7 @@ That’s a shift from **location-based addressing** to **meaning-based resolutio
 
 ---
 
-## 🧩 The Architecture of Trust
+## The Architecture of Trust
 
 To build an internet that can be reasoned about by AI — not just indexed — we need a new architecture of trust.
 
@@ -62,7 +62,7 @@ Handshake sits in the **Naming layer** — the foundation that links human-reada
 
 ---
 
-## 🔗 Handshake: The Decentralised Root Zone
+## Handshake: The Decentralised Root Zone
 
 Handshake replaces the centralised DNS root (run by ICANN and a few large registries) with a **blockchain-based registry of top-level domains**.  
 When you own a Handshake name like `.selfdriven`, you don’t lease it — you own it cryptographically.
@@ -76,7 +76,7 @@ Your name becomes a **trust root**, one that AI agents can resolve without relyi
 
 ---
 
-## 🪪 Handshake + DIDs = The New Trust Fabric
+## Handshake + DIDs = The New Trust Fabric
 
 In the AI-first internet, we’ll likely see a stack like this:
 
@@ -95,7 +95,7 @@ Instead of a fragile web of URLs, we get a self-verifying network of meaning —
 
 ---
 
-## 🌉 Interoperability and Resolver Bridges
+## Interoperability and Resolver Bridges
 
 Handshake doesn’t replace DNS overnight — it *bridges* it.  
 Resolver gateways like [hns.to](https://hns.to) allow `.hns` domains to resolve from traditional browsers, while AI systems can query Handshake’s blockchain directly.  
@@ -109,7 +109,7 @@ This bridge layer keeps the web accessible while laying the foundation for a tru
 
 ---
 
-## 🤖 AI Context Resolution in Action
+## AI Context Resolution in Action
 
 Let’s imagine the next generation of the selfdriven.network AI assistant:
 
@@ -123,7 +123,7 @@ That’s **AI-native resource resolution** — grounded in decentralised naming 
 
 ---
 
-## ⚙️ What It Enables
+## What It Enables
 
 A Handshake-based addressing system makes possible:
 - **Trustless publication:** Governance documents, constitutions, or charters stored immutably and verifiably.  
@@ -133,7 +133,7 @@ A Handshake-based addressing system makes possible:
 
 ---
 
-## 🌍 Why It Matters
+## Why It Matters
 
 The internet began as a network of **locations**,  
 evolved into a network of **links**,  
@@ -146,16 +146,16 @@ Handshake keeps that evolution *anchored* — ensuring that as intelligence beco
 
 ---
 
-## 🧠 Diagram: The Post-URL Internet Stack
+## Diagram: The Post-URL Internet Stack
 
-![AI–Handshake Stack Diagram](/images/handshake-ai-stack.svg)
+![AI–Handshake Stack Diagram](/images/selfdriven-network-infra-rsearch-beyond-urls.png)
 
 > **Diagram:**  
 > In the post-URL internet, AI resolves intent via decentralised identity (DIDs), naming (Handshake), and data (IPFS) layers — ensuring provenance and authenticity without centralised DNS.
 
 ---
 
-## 🔮 Closing Reflection
+## Closing Reflection
 
 The next web won’t be built from *pages* — it’ll be built from *proofs.*  
 Handshake gives those proofs a name the world can trust.  

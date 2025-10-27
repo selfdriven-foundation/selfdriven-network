@@ -125,3 +125,4 @@ permalink: /onchain-interface/
 - [selfdriven.fyi/on-chain](https://selfdriven.fyi/on-chain)  
 - [selfdriven.ai](https://selfdriven.ai)
 - [Code GitHub Repo](https://github.com/selfdriven-tech/interface-onchain)
+- [On-Chain x402 Interface](/onchain-interface/x402/)

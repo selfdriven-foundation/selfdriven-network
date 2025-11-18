@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Infra Interface - selfdriven Network
-permalink: /infra-interface/communitised-agreement
+permalink: /infra-interface/cooperative/agreement
 ---
 
-# Communitised Infra Agreement
+# Cooperative Infra Agreement
 
 ## Example based on SDNIIUN01.
 
@@ -22,7 +22,7 @@ This agreement is entered into by the undersigned individuals or entities (“Me
 
 ### **2\. Purpose**
 
-The Members agree to collectively invest in and communitise the Unity Node, blending real-world telecom verification infrastructure with crypto edge infrastructure, with the goals of:
+The Members agree to collectively invest in and cooperative operate the Unity Node, blending real-world telecom verification infrastructure with crypto edge infrastructure, with the goals of:
 
 * Gaining exposure to next-generation telecom \+ crypto systems.  
 * Sharing both potential rewards and risks.  
@@ -43,7 +43,7 @@ The Members agree to collectively invest in and communitise the Unity Node, blen
 
 * **Tradability:**  
   * SDNIIUN01 tokens will be issued on the Cardano Network with its own policy.  
-  * SDNIIUN01 tokens may be transferred, sold, or traded freely, representing ownership rights in this communitised infrastructure.
+  * SDNIIUN01 tokens may be transferred, sold, or traded freely, representing ownership rights in this cooperative infrastructure.
 
 ### **4\. Roles & Responsibilities**
 

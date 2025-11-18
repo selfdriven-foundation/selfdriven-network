@@ -36,16 +36,16 @@ permalink: /infra-interface/
 ### Entities & Attachments
    - [selfdriven Network Interfaces Node](/interfaces-node/)
 
-### Communitised Infra
-The selfdriven Network, in collaboration with [selfdriven Services](https://selfdriven.services), supports communitised infrastructure - education, resources & participation.
-- [Example Communitised Infra Agreement](/infra-interface/communitised-agreement)
+### Cooperative Infra
+The selfdriven Network, in collaboration with [selfdriven Services](https://selfdriven.services), supports cooperative based infrastructure - education, resources & participation.
+- [Example Cooperative Infra Agreement](/infra-interface/cooperative/agreement)
 
 ### selfdriven Services Infra
 - [Unity Node](https://unitynodes.io) - [#SNIIUN01](https://adastat.net/policies/269366d093249b0cac98fa9fcbc374578429534e3b7adeac09f081e3) - [selfdriven.tel](https://selfdriven.tel)
 - [Infinity Rising Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes) - #SNIICN01 "SELF1" - analysis stage.
 
 ### Resources
-- [Communitised Infra Agreement](/infra-interface/communitised-agreement)
+- [Cooperative Infra Agreement](/infra-interface/cooperative/agreement)
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces)
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  

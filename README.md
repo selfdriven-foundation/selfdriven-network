@@ -3,7 +3,7 @@
 
 seldriven Network is an abstraction surface for individuals, communities, organisations & ecoystems to build and operate on.
 
-It orchestrates the complext services into useable interfaces.
+It orchestrates the many complex services into unified useable interfaces.
 
 <a href="/docs/images/selfdriven-network-stack-orange-interfaces-2.png" target="_blank" class="text-decoration-none">
     <img src="/docs/images/selfdriven-network-stack-orange-interfaces-2.png" class="img-responsive rounded img-fluid">

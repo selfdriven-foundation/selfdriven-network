@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Human Social Interfaces - selfdriven Network
 permalink: /human-social-interfaces/
 ---

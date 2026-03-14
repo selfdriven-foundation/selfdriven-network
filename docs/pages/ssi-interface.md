@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: SSI Interface - selfdriven Network
 permalink: /ssi-interface/
 ---

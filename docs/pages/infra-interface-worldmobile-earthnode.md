@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: EarthNode Situation Analysis - WorldMobile - Infra Interface - selfdriven Network
 permalink: /infra-interface/worldmobile/earthnode/situation-analysis
 ---

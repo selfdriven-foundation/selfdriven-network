@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Infra Interface - selfdriven Network
 permalink: /infra-interface/
 ---

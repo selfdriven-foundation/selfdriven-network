@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Interfaces Node - selfdriven Network
 permalink: /interfaces-node/
 ---

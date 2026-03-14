@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: OnChain Interface - selfdriven Network
 permalink: /onchain-interface/
 ---

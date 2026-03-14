@@ -1,5 +1,6 @@
 title: "selfdriven Network"
 description: "A set of interfaces supporting the selfdriven Organisational System - selfdrivenOS."
+context: "network"
 baseurl: ""
 url: ""
 defaults:

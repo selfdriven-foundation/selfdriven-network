@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 permalink: /infra-interface/research/handshake-beyond-urls/
 title: "Handshake and the Post-URL Internet"
 

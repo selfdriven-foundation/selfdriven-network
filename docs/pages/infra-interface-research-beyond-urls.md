@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 permalink: /infra-interface/research/beyond-urls/
 title: "Beyond URLs: How the Handshake Protocol Anchors the AI-Driven Internet"
 description: "As AI transforms how we find and trust information, Handshake offers a decentralised foundation for meaning, identity, and authenticity in a post-URL world."

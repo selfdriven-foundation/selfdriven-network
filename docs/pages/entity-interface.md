@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Entity Interface - selfdriven Network
 permalink: /entity-interface/
 ---

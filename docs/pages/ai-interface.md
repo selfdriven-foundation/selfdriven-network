@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: AI Interface - selfdriven Network
 permalink: /ai-interface/
 ---

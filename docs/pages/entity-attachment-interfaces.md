@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Entity & Attachment Interfaces - selfdriven Network
 permalink: /entity-attachment-interfaces/
 ---

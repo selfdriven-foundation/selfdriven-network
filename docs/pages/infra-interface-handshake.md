@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Infra Interface Handshake - selfdriven Network
 permalink: /infra-interface/handshake/
 ---

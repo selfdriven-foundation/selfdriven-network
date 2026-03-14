@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Attachment Interface - selfdriven Network
 permalink: /attachment-interface/
 ---

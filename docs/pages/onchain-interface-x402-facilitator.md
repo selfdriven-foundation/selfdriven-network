@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: x402 - OnChain Interface - selfdriven Network
 permalink: /onchain-interface/x402/facilitator/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Human Interface - selfdriven Network
 permalink: /human-interface/
 ---

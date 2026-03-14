@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Social Interface - selfdriven Network
 permalink: /social-interface/
 ---

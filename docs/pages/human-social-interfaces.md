@@ -13,5 +13,5 @@ permalink: /human-social-interfaces/
 - [selfdriven.id](https://selfdriven.id) - Trustable identification and associated identities.
 - [selfdriven.fyi/identity](https://selfdriven.fyi/identity)
 - [selfdriven.fyi/trust](https://selfdriven.fyi/trust)
-- [skillzeb.io/skillset-explorer/domain:being-human](https://skillzeb.io/skillset-explorer/domain:being-human) 
+- [skillzeb.io/skillset-explorer/domain:being-human](https://skillzeb.io/skillset-explorer#domain:being-human) 
 

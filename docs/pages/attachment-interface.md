@@ -10,35 +10,44 @@ permalink: /attachment-interface/
 
 ### Version
 
-- 2.1 (JUN2025)
+- 2.4 (MAR2026)
 
-### Method Names
+## Github
 
-- "attachment-ipfs-file-upload"
-- "attachment-github-repo-file-upload" - upload as a commit to a github repo
+### Methods
+- attachment-github-file-get: - get a file from github
+- attachment-github-file-push: - push / commit a file to github
+- attachment-github-orgs: - get github orgs
 
-### Notes
+### Create a Personal Access Token (PAT) in GitHub
 
+Fine-grained tokens are the better option since you can lock them to specific repos and minimal permissions.
+
+- Go to github.com → Settings → Developer settings → Personal access tokens → Fine-grained tokens (or classic tokens)
+- Click Generate new token
+- Give it a name like entityos-github
+- For fine-grained tokens, select the specific repos you need access to and grant Contents: Read-only permission
+- For classic tokens, tick the repo scope (gives full private repo access)
+- Generate and copy the token — you only see it once.
+
+**or via npm**
+
+```
+npm install -g @github-cli/cli
+gh auth login
+gh auth token
+```
+
+## IPFS (coming)
+- *"attachment-ipfs-file-upload"*
+
+## Interface Notes
 - All methods are access as http POSTs  
 - All data to be sent in the body as JSON \- so protected by SSL.  
 - All response data returned as JSON.  
 - All http response statuses are 200 with status=”OK,ER”.
 
-### Methods
-
-| Method | Attachment IPFS File  Upload |
-| :---- | :---- |
-| **Name** | attachment-ipfs-file-upload |
-| **Mode** | Current set to “reflect” \- ie request is validated and all data sent with request reflected back for integration development/testing. |
-| **Reflect Options** | status: eg “OK”, “ER” data: Data to be reflected. |
-| **Request Data** | method: ‘attachment-ipfs-file-upload’ apikey: \[supplied\] authkey: \[supplied\] data: version:  |
-| **Format** | JSON |
-| **Response Data** | method: ‘attachment-ipfs-file-upload’ status: ‘OK’, ‘ER’ \- if error then {error: {code:, description:}} data: \[ { name:, url:, id:, etag: modifieddatetime:, createddatetime: } \] |
-
-### Resources
-- [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)  
-- [github.com/ibcom-lab/entityos-learn](https://github.com/ibcom-lab/entityos-learn)
-- [github.com/ibcom-lab/entityos-learn-storage](https://github.com/ibcom-lab/entityos-learn-storage)
+## Resources
 - [Code GitHub Repo](https://github.com/selfdriven-tech/interface-attachment)
 
 ---

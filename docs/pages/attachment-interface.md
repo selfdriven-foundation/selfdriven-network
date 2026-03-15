@@ -21,8 +21,6 @@ permalink: /attachment-interface/
 
 ### Create a Personal Access Token (PAT) in GitHub
 
-Fine-grained tokens are the better option since you can lock them to specific repos and minimal permissions.
-
 - Go to github.com → Settings → Developer settings → Personal access tokens → Fine-grained tokens (or classic tokens)
 - Click Generate new token
 - Give it a name like entityos-github
@@ -37,6 +35,8 @@ npm install -g @github-cli/cli
 gh auth login
 gh auth token
 ```
+
+*Fine-grained tokens are the better option since you can lock them to specific repos and minimal permissions.*
 
 ## IPFS (coming)
 - *"attachment-ipfs-file-upload"*

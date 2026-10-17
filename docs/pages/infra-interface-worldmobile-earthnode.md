@@ -1,5 +1,7 @@
 ---
 layout: selfdriven
+parent_title: "Infra Interface"
+parent_url: /infra-interface/
 title: EarthNode Situation Analysis - WorldMobile - Infra Interface - selfdriven Network
 permalink: /infra-interface/worldmobile/earthnode/situation-analysis
 ---

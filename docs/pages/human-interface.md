@@ -1,5 +1,7 @@
 ---
 layout: selfdriven
+parent_title: "Human & Social"
+parent_url: /human-social-interfaces/
 title: Human Interface - selfdriven Network
 permalink: /human-interface/
 ---

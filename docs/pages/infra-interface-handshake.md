@@ -1,5 +1,7 @@
 ---
 layout: selfdriven
+parent_title: "Infra Interface"
+parent_url: /infra-interface/
 title: Infra Interface Handshake - selfdriven Network
 permalink: /infra-interface/handshake/
 ---

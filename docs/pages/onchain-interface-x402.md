@@ -1,5 +1,7 @@
 ---
 layout: selfdriven
+parent_title: "OnChain Interface"
+parent_url: /onchain-interface/
 title: x402 - OnChain Interface - selfdriven Network
 permalink: /onchain-interface/x402
 ---

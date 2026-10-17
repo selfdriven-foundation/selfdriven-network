@@ -1,5 +1,7 @@
 ---
 layout: selfdriven
+parent_title: "Infra Interface"
+parent_url: /infra-interface/
 permalink: /infra-interface/research/handshake-beyond-urls/
 title: "Handshake and the Post-URL Internet"
 

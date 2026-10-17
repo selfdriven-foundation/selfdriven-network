@@ -1,5 +1,7 @@
 ---
 layout: selfdriven
+parent_title: "Entity & Attachment"
+parent_url: /entity-attachment-interfaces/
 title: Entity Interface - selfdriven Network
 permalink: /entity-interface/
 ---

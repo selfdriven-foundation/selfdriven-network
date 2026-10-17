@@ -1,5 +1,7 @@
 ---
 layout: selfdriven
+parent_title: "Infra Interface"
+parent_url: /infra-interface/
 permalink: /infra-interface/research/beyond-urls/
 title: "Beyond URLs: How the Handshake Protocol Anchors the AI-Driven Internet"
 description: "As AI transforms how we find and trust information, Handshake offers a decentralised foundation for meaning, identity, and authenticity in a post-URL world."
@@ -132,7 +134,7 @@ Handshake is DNS for the self-aware web — where names don’t just locate thin
 
 ### Diagram: The Post-URL Internet Stack
 
-<img src="/images/selfdriven-network-infra-research-beyond-urls.png" style="max-width:600px; border-radius: 20px;">
+<img src="/images/selfdriven-network-infra-research-beyond-urls.png" style="width:100%; max-width:600px; border-radius: 12px;">
 
 *In the post-URL internet, AI resolves intent via decentralised identity (DIDs), naming (Handshake), and data (IPFS) layers — ensuring provenance and authenticity without centralised DNS.*
 

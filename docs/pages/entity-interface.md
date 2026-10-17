@@ -9,7 +9,6 @@ permalink: /entity-interface/
 # Entity Interface
 
 * entity.interface.selfdriven.network  
-* api.slfdrvn.io
 
 ### Version
 

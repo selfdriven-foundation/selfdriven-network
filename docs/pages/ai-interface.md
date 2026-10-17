@@ -25,7 +25,6 @@ The Interface supports all widely recognised foundation models and integrates wi
 
 **Endpoints:**  
 - ai.interface.selfdriven.network
-- ai.api.slfdrvn.io
 
 ### Core Methods
 

@@ -7,7 +7,6 @@ permalink: /ssi-interface/
 # SSI Interface
 
 * ssi.interface.selfdriven.network  
-* ssi.api.slfdrvn.io
 
 **Version**
 

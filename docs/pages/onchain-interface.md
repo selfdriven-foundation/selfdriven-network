@@ -7,7 +7,6 @@ permalink: /onchain-interface/
 # OnChain Interface
 
 * onchain.interface.selfdriven.network  
-* onchain.api.slfdrvn.io
 
 **Version**
 

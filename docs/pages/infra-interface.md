@@ -38,7 +38,7 @@ permalink: /infra-interface/
 
 ### Community-Owned Infra
 Energy, compute, storage, connectivity and governance — owned and operated by communities, federated through selfdriven.network.
-- [Community-Owned Infrastructure](/infra-interface/community/) - concept v0.1: sovereign community cells, federation by consent, regenerative computing.
+- [Community-Owned Infrastructure](/infra-interface/community) - concept: sovereign community hubs, federation by consent, regenerative computing.
 
 ### Cooperative Infra
 The selfdriven Network, in collaboration with [selfdriven Services](https://selfdriven.services), supports cooperative based infrastructure - education, resources & participation.
@@ -49,7 +49,7 @@ The selfdriven Network, in collaboration with [selfdriven Services](https://self
 - [Infinity Rising Node](https://copiwiki.cornucopias.io/the-company/technology/copi-nodes) - #SNIICN01 "SELF1" - analysis stage.
 
 ### Resources
-- [Community-Owned Infrastructure](/infra-interface/community/)
+- [Community-Owned Infrastructure](/infra-interface/community)
 - [Cooperative Infra Agreement](/infra-interface/cooperative/agreement)
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces)
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)

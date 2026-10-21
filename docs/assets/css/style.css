@@ -1,4 +1,4 @@
-/* selfdriven.network — shares the selfdriven.institute look: split hero, stats strip, tile grid, dark layers panel, orange banner, ink footer */
+/* selfdriven.tech — shares the selfdriven.institute look: split hero, stats strip, tile grid, dark layers panel, orange banner, ink footer */
 :root{
 	--paper:#ffffff;
 	--surface:#f6f5f7;
@@ -363,143 +363,22 @@ h1 em,h2 em{font-style:normal;color:var(--orange)}
 }
 .scope-head p+p{margin-top:14px}
 
-/* ═══ selfdriven.network additions ═══════════════════════════════════ */
+/* ═══ selfdriven.tech additions ════════════════════════════════════ */
 
-/* Header: wordmark swaps to a light version in dark mode (see header include) */
-.logo{display:block;text-decoration:none}
-.logo picture{display:block}
-.nav a .arrow-icon{width:.95em;height:.95em;color:var(--orange)}
+/* Tech wordmark is taller than the Institute one (1250×360 vs 2020×340): size by height so the mark matches */
+.logo img.logo-tech{width:auto;height:36px}
 
-/* Hero panel: the interfaces node */
-.iface{fill:var(--panel);stroke:var(--orange);stroke-width:1.5}
-.iface-tag{fill:#ffffff;opacity:.75;font-family:var(--font-mono);font-size:12px}
-.flow{animation:flow 1.4s linear infinite}
-@keyframes flow{to{stroke-dashoffset:-16}}
+/* Hero panel: selfdrivenOS core fanning out to the eight interfaces */
+.os-core{fill:var(--panel);stroke:#ffffff;stroke-width:1.5;stroke-opacity:.45}
+.os-core-label{fill:#ffffff;font-family:var(--font-mono);font-size:13px;letter-spacing:.02em}
 
-/* Tiles: linked headings */
-.discipline h3 a{text-decoration:none;display:inline-flex;align-items:center;gap:8px}
-.discipline h3 a .arrow-icon{color:var(--orange)}
-.discipline h3 a:hover{color:var(--orange-hover)}
+/* Link at the foot of each dark-panel column */
+.layer-link{display:inline-flex;align-items:center;gap:6px;font-size:14px;font-weight:600;color:#ffffff;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.3);padding-bottom:2px}
+.layer-link:hover{color:var(--orange-on-dark);border-color:var(--orange-on-dark)}
 
-/* Stack figure */
-.stack-figure{margin:0;border-radius:8px;overflow:hidden;background:var(--orange);align-self:start}
-.stack-figure img{display:block;width:100%;height:auto}
-.stack-figure figcaption{background:var(--surface);color:var(--muted);font-size:13px;padding:12px 16px}
-
-/* Link rows with a number and version tag */
-.link-row .scope-num{margin:0 0 6px}
-.link-row code{font-family:var(--font-mono);font-size:11px;font-weight:600;letter-spacing:.04em;color:var(--orange);border:1px solid var(--line);border-radius:4px;padding:1px 6px;margin-left:8px;vertical-align:2px}
-
-/* Contribute / 404 */
-.scope.flush{margin-top:0}
-.page-intro{max-width:46em;margin:0 0 50px}
-.page-intro h1{margin-top:0}
-.page-intro .intro{max-width:none}
-.page-intro .button{margin-top:6px}
-
-/* Content pages: crumbs, code, tables, toc state */
-.crumb .sep{opacity:.5;margin:0 6px}
-.prose pre{font-family:var(--font-mono);font-size:13.5px;line-height:1.6;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:18px 20px;margin:0 0 22px;overflow-x:auto;tab-size:2}
-.prose pre code{background:none;padding:0;border-radius:0;font-size:inherit}
-.prose div.highlighter-rouge{margin:0 0 22px}
-.prose div.highlighter-rouge pre{margin:0}
-.prose table{width:100%}
-.prose{overflow-wrap:break-word}
-.prose :not(pre)>code{overflow-wrap:anywhere}
-.prose td code,.prose th code{white-space:nowrap}
-.prose img{height:auto}
-.prose em{color:inherit}
-.toc li.toc-sub{padding-left:12px;font-size:13px}
-.toc a.active{color:var(--ink);font-weight:600}
-.page-nav span:empty{display:none}
-
-/* Syntax colours (Rouge) */
-.highlight .c,.highlight .c1,.highlight .cm,.highlight .cs,.highlight .cp{color:var(--muted);font-style:italic}
-.highlight .k,.highlight .kd,.highlight .kn,.highlight .kr,.highlight .kc,.highlight .kt,.highlight .nt{color:var(--orange)}
-.highlight .s,.highlight .s1,.highlight .s2,.highlight .sb,.highlight .sd,.highlight .se,.highlight .sh,.highlight .si,.highlight .sx{color:var(--tile-green)}
-.highlight .m,.highlight .mi,.highlight .mf,.highlight .mh{color:var(--orange-hover)}
-.highlight .na,.highlight .nb,.highlight .nf,.highlight .nx{color:var(--ink)}
-@media (prefers-color-scheme:dark){
-	:root:not([data-theme="light"]) .highlight .s,:root:not([data-theme="light"]) .highlight .s1,:root:not([data-theme="light"]) .highlight .s2,:root:not([data-theme="light"]) .highlight .sb,:root:not([data-theme="light"]) .highlight .si{color:#7fc7a1}
-}
-:root[data-theme="dark"] .highlight .s,:root[data-theme="dark"] .highlight .s1,:root[data-theme="dark"] .highlight .s2,:root[data-theme="dark"] .highlight .sb,:root[data-theme="dark"] .highlight .si{color:#7fc7a1}
+/* Numbered labels inside link rows */
+.link-row .scope-num{margin-bottom:6px}
 
 @media(max-width:760px){
-	.page-intro{margin-bottom:34px}
-	.prose pre{font-size:12.5px;padding:14px 16px}
-}
-
-/* ═══ Community-owned infrastructure (/infra-interface/community/) ═══ */
-
-/* Hero panel: federated community cells */
-.cell{fill:var(--panel);stroke:#ffffff;stroke-width:1.5;stroke-opacity:.55}
-.cell.surplus{stroke:var(--orange);stroke-opacity:1}
-.sun{fill:none;stroke:var(--orange);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
-
-/* Scope lists: odd last item spans, compact rows, interface mapping, body column */
-.scope-list.span-last li:last-child:nth-child(odd){grid-column:1/-1}
-.scope-list.compact li{padding:16px 20px}
-.scope-list.compact h4{font-size:1rem;margin-bottom:6px}
-.scope-list .maps{display:block;margin-top:14px;padding-top:12px;border-top:1px solid var(--line);font-family:var(--font-mono);font-size:12px;letter-spacing:.02em;color:var(--muted)}
-.scope-list .maps a{color:var(--orange);text-decoration:none;font-weight:600}
-.scope-list .maps a:hover{color:var(--orange-hover);text-decoration:underline}
-.scope-list li>.scope-num+p{margin-top:2px}
-.scope-head a{text-decoration-color:var(--orange);text-decoration-thickness:2px;text-underline-offset:4px}
-.scope-body{min-width:0;display:grid;gap:14px;align-content:start}
-
-/* Value objective */
-.formula{margin:0;border:1px solid var(--line);border-radius:7px;background:var(--surface);padding:28px 24px 22px}
-.formula-eq{display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;margin:0;font-family:var(--font-display);font-size:clamp(1rem,1.6vw,1.3rem);font-weight:600;letter-spacing:-.02em;line-height:1.3}
-.frac{display:inline-flex;flex-direction:column;align-items:center;text-align:center}
-.frac>span{padding:0 10px}
-.frac>span:first-child{padding-bottom:8px;border-bottom:2px solid var(--orange)}
-.frac>span:last-child{padding-top:8px}
-.formula figcaption{font-size:14px;color:var(--muted);line-height:1.55;margin-top:22px;padding-top:16px;border-top:1px solid var(--line)}
-
-/* Resource declaration */
-.decl{margin:0;min-width:0;background:var(--panel);color:#ffffff;border-radius:8px;overflow:hidden;align-self:start}
-.decl-head{display:flex;justify-content:space-between;gap:12px;padding:14px 20px;border-bottom:1px solid rgba(255,255,255,.12);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.65)}
-.decl-head span:last-child{color:var(--orange-on-dark)}
-.decl pre{margin:0;padding:20px 22px;font-family:var(--font-mono);font-size:13.5px;line-height:1.7;overflow-x:auto;tab-size:2;color:rgba(255,255,255,.6)}
-.decl code{font-family:inherit}
-.decl .k{color:#ffffff}
-.decl .v{color:#7fc7a1}
-.decl .n{color:var(--orange-on-dark)}
-
-/* Intent -> policy -> execution -> outcome */
-.chain-label{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:18px 0 0}
-.chain{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-.chain li{min-width:0;padding:20px 20px 20px 0;font-family:var(--font-display);font-size:clamp(1.05rem,1.5vw,1.3rem);font-weight:600;letter-spacing:-.02em;line-height:1.2}
-.chain li+li{padding-left:20px;border-left:1px solid var(--line)}
-.chain small{display:block;font-family:var(--font-mono);font-size:12px;font-weight:600;letter-spacing:.08em;color:var(--orange);margin-bottom:10px}
-
-/* Deployment phases and pilot tests (dark panel) */
-.layer-list.three{grid-template-columns:repeat(3,minmax(0,1fr))}
-.layer p a{color:#ffffff;text-decoration-color:var(--orange-on-dark)}
-.layer .outcome{color:#ffffff;font-size:14px;border-top:1px dashed rgba(255,255,255,.22);padding-top:12px;margin:0}
-.layer .outcome strong{display:block;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--orange-on-dark);margin-bottom:4px}
-.pilot{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:40px;margin-top:44px;padding-top:28px;border-top:1px solid rgba(255,255,255,.2)}
-.pilot h3{color:#ffffff;font-size:1.3rem;margin:0 0 10px}
-.pilot p{color:rgba(255,255,255,.72);font-size:15px;margin:0}
-.pilot-tests{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:8px;align-content:start}
-.pilot-tests li{font-size:13px;font-weight:500;color:#ffffff;border:1px solid rgba(255,255,255,.28);border-radius:999px;padding:5px 13px}
-
-/* Closing statement after the dark panel */
-.statement.spaced{margin:90px 0 0}
-.statement-note{color:var(--muted);font-size:17px;max-width:34em;margin:26px 0 0}
-
-/* Banner: secondary link sits on its own line under the button (homepage too) */
-.custom-banner .text-link{display:table;margin-top:18px}
-
-@media(max-width:960px){
-	.pilot{grid-template-columns:1fr;gap:18px}
-}
-@media(max-width:760px){
-	.layer-list.three{grid-template-columns:1fr}
-	.chain{grid-template-columns:1fr 1fr}
-	.chain li:nth-child(3){padding-left:0;border-left:0}
-	.chain li:nth-child(n+3){border-top:1px solid var(--line)}
-	.decl pre{font-size:12.5px;padding:16px 18px}
-	.formula{padding:22px 18px 18px}
-	.statement.spaced{margin-top:60px}
+	.logo img.logo-tech{height:30px}
 }

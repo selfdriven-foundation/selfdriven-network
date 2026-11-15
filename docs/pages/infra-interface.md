@@ -16,7 +16,8 @@ permalink: /infra-interface/
    - [Figure Humanoid](https://youtube.com/@figureai)
    - [Modular Robot D1](https://www.youtube.com/watch?v=GbL3mjoZtOA)
 
-### Intelligence & Sensors
+### Compute, Intelligence & Sensors
+   - Open Silicon - [selfdriven.computer](https://www.selfdriven.computer/open-silicon)
    - Generative Intelligence - [selfdriven.ai](https://www.selfdriven.ai/tech/)
    - Physical Sensors - e.g. BioChar Production Input/Outputs
       - Automation & Robotics integration

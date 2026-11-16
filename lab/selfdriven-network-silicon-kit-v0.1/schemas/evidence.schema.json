@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:selfdriven:silicon-kit:evidence:0.1",
+  "title": "selfdriven Silicon Kit educational evidence envelope",
+  "description": "Draft for v0.1 demo; Node validator is authoritative for this educational implementation.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "protocol",
+    "deviceId",
+    "sequence",
+    "previousHash",
+    "observedAt",
+    "evidenceType",
+    "observation",
+    "proof"
+  ],
+  "properties": {
+    "protocol": {
+      "const": "selfdriven.silicon.evidence.v0.1"
+    },
+    "deviceId": {
+      "type": "string",
+      "pattern": "^sdid:spki256:[A-Za-z0-9_-]{43}$"
+    },
+    "sequence": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "previousHash": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "string",
+          "pattern": "^sha256:[a-f0-9]{64}$"
+        }
+      ]
+    },
+    "observedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "evidenceType": {
+      "const": "energy.production.sample"
+    },
+    "observation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sourceId",
+        "wattHours",
+        "intervalSeconds"
+      ],
+      "properties": {
+        "sourceId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 100
+        },
+        "wattHours": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "intervalSeconds": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "proof": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "algorithm",
+        "eventHash",
+        "publicKeySpki",
+        "signature",
+        "signerType"
+      ],
+      "properties": {
+        "algorithm": {
+          "const": "Ed25519"
+        },
+        "eventHash": {
+          "type": "string",
+          "pattern": "^sha256:[a-f0-9]{64}$"
+        },
+        "publicKeySpki": {
+          "type": "string"
+        },
+        "signature": {
+          "type": "string"
+        },
+        "signerType": {
+          "const": "software-demo"
+        }
+      }
+    }
+  }
+}

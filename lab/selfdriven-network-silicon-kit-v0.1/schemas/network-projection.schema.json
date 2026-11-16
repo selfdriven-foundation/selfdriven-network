@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Proposed selfdriven.network VCG projection (not a published interface schema)",
+  "type": "object",
+  "required": ["format", "status", "communityId", "nodes", "edges", "caveats"],
+  "properties": {
+    "format": { "const": "selfdriven.network.vcg-projection.v0.1" },
+    "status": { "const": "proposed-uncommitted" },
+    "communityId": { "type": "string", "pattern": "^community:[a-z0-9][a-z0-9-]{1,62}$" },
+    "nodes": { "type": "array", "minItems": 3, "items": { "type": "object" } },
+    "edges": { "type": "array", "items": { "type": "object" } },
+    "caveats": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}

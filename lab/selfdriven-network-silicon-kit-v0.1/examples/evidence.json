@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "protocol": "selfdriven.silicon.evidence.v0.1",
+      "deviceId": "sdid:spki256:JcIUm7spPPJGMEkswFmBW6ZioifI0Xft1LaC0XNiHrY",
+      "sequence": 1,
+      "previousHash": null,
+      "observedAt": "2026-11-16T06:00:00.000Z",
+      "evidenceType": "energy.production.sample",
+      "observation": {
+        "sourceId": "simulated-community-meter",
+        "wattHours": 1200,
+        "intervalSeconds": 60
+      },
+      "proof": {
+        "algorithm": "Ed25519",
+        "eventHash": "sha256:746dd1cf806bcbfcd890283751c8dca16aafeebb7b2dd59ad3065b764ee2f8d6",
+        "publicKeySpki": "MCowBQYDK2VwAyEA0QWN99aQGIZ565ujnvVJPrslTG8Vh8a2DzEr20tlMVQ",
+        "signature": "OWx-yKUa7Kb6j_0YB7Rc4OYG9bzcBjb20-NccK8_kH5drtvpIGom_SJClVHTAA2mE0yrGsA7Jr7PSSq9vUwtDQ",
+        "signerType": "software-demo"
+      }
+    },
+    {
+      "protocol": "selfdriven.silicon.evidence.v0.1",
+      "deviceId": "sdid:spki256:JcIUm7spPPJGMEkswFmBW6ZioifI0Xft1LaC0XNiHrY",
+      "sequence": 2,
+      "previousHash": "sha256:746dd1cf806bcbfcd890283751c8dca16aafeebb7b2dd59ad3065b764ee2f8d6",
+      "observedAt": "2026-11-16T06:01:00.000Z",
+      "evidenceType": "energy.production.sample",
+      "observation": {
+        "sourceId": "simulated-community-meter",
+        "wattHours": 1260,
+        "intervalSeconds": 60
+      },
+      "proof": {
+        "algorithm": "Ed25519",
+        "eventHash": "sha256:dcf5e63aa8cc763896484b63b7dbd719d3917a5c8638e332fc7ca186c69e12e5",
+        "publicKeySpki": "MCowBQYDK2VwAyEA0QWN99aQGIZ565ujnvVJPrslTG8Vh8a2DzEr20tlMVQ",
+        "signature": "gAmVwY81Yuvzp0hBSiKR_3I1u7UgZblDpewkKNIOLGZxw2gwLHb80Js_uSgb0GDM3KE_HY8fHwNiPBrYxpIqBQ",
+        "signerType": "software-demo"
+      }
+    },
+    {
+      "protocol": "selfdriven.silicon.evidence.v0.1",
+      "deviceId": "sdid:spki256:JcIUm7spPPJGMEkswFmBW6ZioifI0Xft1LaC0XNiHrY",
+      "sequence": 3,
+      "previousHash": "sha256:dcf5e63aa8cc763896484b63b7dbd719d3917a5c8638e332fc7ca186c69e12e5",
+      "observedAt": "2026-11-16T06:02:00.000Z",
+      "evidenceType": "energy.production.sample",
+      "observation": {
+        "sourceId": "simulated-community-meter",
+        "wattHours": 1320,
+        "intervalSeconds": 60
+      },
+      "proof": {
+        "algorithm": "Ed25519",
+        "eventHash": "sha256:52db9948acf26bf470f95867b35220fd84a1584f67b60aafcec06d0294679ce5",
+        "publicKeySpki": "MCowBQYDK2VwAyEA0QWN99aQGIZ565ujnvVJPrslTG8Vh8a2DzEr20tlMVQ",
+        "signature": "kzLCAcZEv8qLzRSFiCEroZSMaVnTTuGpqyhHZwNjAHpOZMFrmBrcczGojWGbkm8pq9WlKZgum8kLhART_2McBA",
+        "signerType": "software-demo"
+      }
+    }
+  ]
+}

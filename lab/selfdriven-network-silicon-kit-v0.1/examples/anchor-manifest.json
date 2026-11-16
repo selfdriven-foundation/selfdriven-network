@@ -1,0 +1,10 @@
+{
+  "format": "selfdriven.network.anchor-manifest.v0.1",
+  "communityId": "community:solar-commons",
+  "evidenceCount": 3,
+  "evidenceHead": "sha256:52db9948acf26bf470f95867b35220fd84a1584f67b60aafcec06d0294679ce5",
+  "digest": "sha256:906fb46650ab7d35233c9cac7b2ea85939ec7ca99b94fc6cf857c2a3b7204c6f",
+  "chain": "none",
+  "status": "not-submitted",
+  "note": "Local digest only. No Cardano transaction or consensus finality."
+}

@@ -1,0 +1,15 @@
+{
+  "name": "selfdriven-network-silicon-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Experimental hardware-evidence bridge for selfdriven.network: local community policy, verification and graph projection",
+  "type": "commonjs",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "demo": "node src/demo.js",
+    "verify": "node src/verify.js examples/evidence.json examples/community-registry.json examples/community-policy.json",
+    "serve": "node src/server.js",
+    "test": "node --test"
+  },
+  "license": "UNLICENSED"
+}

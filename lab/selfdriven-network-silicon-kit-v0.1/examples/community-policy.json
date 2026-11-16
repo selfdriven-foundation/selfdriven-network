@@ -1,0 +1,8 @@
+{
+  "version": "selfdriven.network.local-policy.v0.1",
+  "communityId": "community:solar-commons",
+  "allowedEvidenceTypes": [
+    "energy.production.sample"
+  ],
+  "note": "Illustrative local-only community policy; not signed or independently governed."
+}

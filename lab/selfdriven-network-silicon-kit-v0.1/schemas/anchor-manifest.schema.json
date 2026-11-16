@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Local anchor manifest; not an on-chain receipt",
+  "type": "object",
+  "required": ["format", "communityId", "evidenceCount", "evidenceHead", "digest", "chain", "status", "note"],
+  "properties": {
+    "format": { "const": "selfdriven.network.anchor-manifest.v0.1" },
+    "communityId": { "type": "string" },
+    "evidenceCount": { "type": "integer", "minimum": 1 },
+    "evidenceHead": { "type": "string", "pattern": "^sha256:[a-f0-9]{64}$" },
+    "digest": { "type": "string", "pattern": "^sha256:[a-f0-9]{64}$" },
+    "chain": { "const": "none" },
+    "status": { "const": "not-submitted" },
+    "note": { "type": "string" }
+  },
+  "additionalProperties": false
+}

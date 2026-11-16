@@ -1,0 +1,30 @@
+{
+  "proposal": "selfdriven.network.silicon.bridge.v0.1",
+  "interface": "Infra -> Entity/Core / SSI / Attachment / AI / OnChain",
+  "transport": "local-mock-only",
+  "method": "ingest-signed-evidence",
+  "data": {
+    "communityId": "community:solar-commons",
+    "event": {
+      "protocol": "selfdriven.silicon.evidence.v0.1",
+      "deviceId": "sdid:spki256:JcIUm7spPPJGMEkswFmBW6ZioifI0Xft1LaC0XNiHrY",
+      "sequence": 3,
+      "previousHash": "sha256:dcf5e63aa8cc763896484b63b7dbd719d3917a5c8638e332fc7ca186c69e12e5",
+      "observedAt": "2026-11-16T06:02:00.000Z",
+      "evidenceType": "energy.production.sample",
+      "observation": {
+        "sourceId": "simulated-community-meter",
+        "wattHours": 1320,
+        "intervalSeconds": 60
+      },
+      "proof": {
+        "algorithm": "Ed25519",
+        "eventHash": "sha256:52db9948acf26bf470f95867b35220fd84a1584f67b60aafcec06d0294679ce5",
+        "publicKeySpki": "MCowBQYDK2VwAyEA0QWN99aQGIZ565ujnvVJPrslTG8Vh8a2DzEr20tlMVQ",
+        "signature": "kzLCAcZEv8qLzRSFiCEroZSMaVnTTuGpqyhHZwNjAHpOZMFrmBrcczGojWGbkm8pq9WlKZgum8kLhART_2McBA",
+        "signerType": "software-demo"
+      }
+    }
+  },
+  "productionApiCompatibility": "not-established"
+}

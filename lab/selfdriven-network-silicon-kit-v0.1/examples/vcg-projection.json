@@ -1,0 +1,44 @@
+{
+  "format": "selfdriven.network.vcg-projection.v0.1",
+  "status": "proposed-uncommitted",
+  "communityId": "community:solar-commons",
+  "nodes": [
+    {
+      "id": "community:solar-commons",
+      "type": "Community"
+    },
+    {
+      "id": "sdid:spki256:JcIUm7spPPJGMEkswFmBW6ZioifI0Xft1LaC0XNiHrY",
+      "type": "DeviceIdentity",
+      "assurance": "software-demo"
+    },
+    {
+      "id": "evidence:sha256:52db9948acf26bf470f95867b35220fd84a1584f67b60aafcec06d0294679ce5",
+      "type": "SignedObservation",
+      "observedAt": "2026-11-16T06:02:00.000Z",
+      "evidenceType": "energy.production.sample",
+      "observation": {
+        "sourceId": "simulated-community-meter",
+        "wattHours": 1320,
+        "intervalSeconds": 60
+      },
+      "sourceEventHash": "sha256:52db9948acf26bf470f95867b35220fd84a1584f67b60aafcec06d0294679ce5"
+    }
+  ],
+  "edges": [
+    {
+      "from": "sdid:spki256:JcIUm7spPPJGMEkswFmBW6ZioifI0Xft1LaC0XNiHrY",
+      "relation": "listedByLocalRegistry",
+      "to": "community:solar-commons"
+    },
+    {
+      "from": "sdid:spki256:JcIUm7spPPJGMEkswFmBW6ZioifI0Xft1LaC0XNiHrY",
+      "relation": "signed",
+      "to": "evidence:sha256:52db9948acf26bf470f95867b35220fd84a1584f67b60aafcec06d0294679ce5"
+    }
+  ],
+  "caveats": [
+    "This projection is not independently verified context",
+    "No sensor calibration, trusted clock or hardware attestation"
+  ]
+}

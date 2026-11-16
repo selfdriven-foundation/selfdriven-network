@@ -1,0 +1,16 @@
+{
+  "version": "selfdriven.network.local-registry.v0.1",
+  "note": "Illustrative allowlist. Not trusted attestation, ownership or credential issuance.",
+  "devices": [
+    {
+      "communityId": "community:solar-commons",
+      "deviceId": "sdid:spki256:JcIUm7spPPJGMEkswFmBW6ZioifI0Xft1LaC0XNiHrY",
+      "publicKeySpki": "MCowBQYDK2VwAyEA0QWN99aQGIZ565ujnvVJPrslTG8Vh8a2DzEr20tlMVQ",
+      "status": "active",
+      "assurance": "software-demo",
+      "allowedEvidenceTypes": [
+        "energy.production.sample"
+      ]
+    }
+  ]
+}

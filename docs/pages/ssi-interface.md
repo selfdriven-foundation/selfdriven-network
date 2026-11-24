@@ -22,6 +22,11 @@ permalink: /ssi-interface/
 * “ssi-get-did-conns”  
 * “ssi-get-verifiable-presentations”
 
+**IPEX credential exchange (proposed)**
+
+* “ssi-ipex-apply”, “ssi-ipex-offer”, “ssi-ipex-agree”, “ssi-ipex-grant”, “ssi-ipex-admit”, “ssi-ipex-spurn”, “ssi-ipex-get-exchanges”, “ssi-ipex-verify”
+* [Run an exchange and see the methods](/ssi-interface/ipex)
+
 **Notes**
 
 * All methods are access as http POSTs  
@@ -66,6 +71,7 @@ permalink: /ssi-interface/
 | **Response** Mode \= Reflect | { 	"status": "OK", 	"apikey": "e7849d3a-d8a3-49c7-8b27-70b85047e0f1", 	"authkey": "28cc4fae-804f-4603-d08a-94fce2be90f2", 	"mode": 	{ 		"type": "live" 	}, 	"data": 	\[ 		{ “name": "DID Schema 1.0", "id": "6423c12c-58aa-476a-b4d4-9056d59b926c", 	"createddatetime": "01 OCT 2023 22:10:00", 	"modifieddatetime": "01 NOV 2023 23:10:00" 		} 	\] } |
 
 ## Resources
+- [IPEX Exchange Interface](/ssi-interface/ipex)
 - [Get Help, Log an Issue](https://github.com/selfdriven-foundation/selfdriven-network/issues)
 - [selfdriven.network](https://selfdriven.network)  
 - [selfdriven.id](https://selfdriven.id)  
